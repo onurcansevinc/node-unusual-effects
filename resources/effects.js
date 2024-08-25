@@ -2,8 +2,6 @@ module.exports = {
     "4": {
         "id": 4,
         "name": "Community Sparkle",
-        "type": "cosmetics",
-        "series": "Community Sparkle",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29,17 +27,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/4_380x380.png"
             }
-        },
-        "crates": [],
-        "date_added": 1268866800000,
-        "update_name": "First Community Contribution Update",
-        "last_update": 1703677340748
+        }
     },
     "5": {
         "id": 5,
         "name": "Holy Glow",
-        "type": "cosmetics",
-        "series": "Miscellaneous",
         "images": {
             "small": {
                 "size": "94x94",
@@ -65,17 +57,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/5_380x380.png"
             }
-        },
-        "crates": [],
-        "date_added": 1251842400000,
-        "update_name": "September 2, 2009 Patch",
-        "last_update": 1703677340748
+        }
     },
     "6": {
         "id": 6,
         "name": "Green Confetti",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -101,38 +87,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/6_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "7": {
         "id": 7,
         "name": "Purple Confetti",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -158,38 +117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/7_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "8": {
         "id": 8,
         "name": "Haunted Ghosts",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -215,38 +147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/8_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "9": {
         "id": 9,
         "name": "Green Energy",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -272,38 +177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/9_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "10": {
         "id": 10,
         "name": "Purple Energy",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -329,38 +207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/10_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "11": {
         "id": 11,
         "name": "Circling TF Logo",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -386,38 +237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/11_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "12": {
         "id": 12,
         "name": "Massed Flies",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -443,38 +267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/12_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "13": {
         "id": 13,
         "name": "Burning Flames",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -500,38 +297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/13_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "14": {
         "id": 14,
         "name": "Scorching Flames",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -557,38 +327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/14_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "15": {
         "id": 15,
         "name": "Searing Plasma",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -614,38 +357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/15_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "16": {
         "id": 16,
         "name": "Vivid Plasma",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -671,38 +387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/16_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "17": {
         "id": 17,
         "name": "Sunbeams",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -728,38 +417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/17_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "18": {
         "id": 18,
         "name": "Circling Peace Sign",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -785,38 +447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/18_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "19": {
         "id": 19,
         "name": "Circling Heart",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -842,38 +477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/19_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340748
+        }
     },
     "20": {
         "id": 20,
         "name": "Map Stamps",
-        "type": "cosmetics",
-        "series": "Map Stamps Collection",
         "images": {
             "small": {
                 "size": "94x94",
@@ -899,15 +507,41 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/20_380x380.png"
             }
-        },
-        "crates": [],
-        "last_update": 1703677340749
+        }
+    },
+    "28": {
+        "id": 28,
+        "name": "Genteel Smoke",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/28_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/28_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/28_380x380.png"
+            }
+        }
     },
     "29": {
         "id": 29,
         "name": "Stormy Storm",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -933,38 +567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/29_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "30": {
         "id": 30,
         "name": "Blizzardy Storm",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -990,38 +597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/30_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "31": {
         "id": 31,
         "name": "Nuts n' Bolts",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1047,38 +627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/31_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "32": {
         "id": 32,
         "name": "Orbiting Planets",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1104,38 +657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/32_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "33": {
         "id": 33,
         "name": "Orbiting Fire",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1161,38 +687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/33_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "34": {
         "id": 34,
         "name": "Bubbling",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1218,38 +717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/34_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "35": {
         "id": 35,
         "name": "Smoking",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1275,38 +747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/35_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "36": {
         "id": 36,
         "name": "Steaming",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1332,38 +777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/36_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340749
+        }
     },
     "37": {
         "id": 37,
         "name": "Flaming Lantern",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1389,22 +807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/37_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "38": {
         "id": 38,
         "name": "Cloudy Moon",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1430,22 +837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/38_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "39": {
         "id": 39,
         "name": "Cauldron Bubbles",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1471,22 +867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/39_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "40": {
         "id": 40,
         "name": "Eerie Orbiting Fire",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1512,22 +897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/40_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "43": {
         "id": 43,
         "name": "Knifestorm",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1553,22 +927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/43_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "44": {
         "id": 44,
         "name": "Misty Skull",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1594,22 +957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/44_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "45": {
         "id": 45,
         "name": "Harvest Moon",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1635,22 +987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/45_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "46": {
         "id": 46,
         "name": "It's A Secret To Everybody",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1676,22 +1017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/46_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "47": {
         "id": 47,
         "name": "Stormy 13th Hour",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1717,22 +1047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/47_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340749
+        }
     },
     "56": {
         "id": 56,
         "name": "Kill-a-Watt",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1758,38 +1077,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/56_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "57": {
         "id": 57,
         "name": "Terror-Watt",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1815,38 +1107,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/57_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "58": {
         "id": 58,
         "name": "Cloud 9",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1872,38 +1137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/58_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "59": {
         "id": 59,
         "name": "Aces High",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1929,38 +1167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/59_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "60": {
         "id": 60,
         "name": "Dead Presidents",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -1986,38 +1197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/60_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "61": {
         "id": 61,
         "name": "Miami Nights",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2043,38 +1227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/61_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "62": {
         "id": 62,
         "name": "Disco Beat Down",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2100,38 +1257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/62_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340749
+        }
     },
     "63": {
         "id": 63,
         "name": "Phosphorous",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2157,22 +1287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/63_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "64": {
         "id": 64,
         "name": "Sulphurous",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2198,22 +1317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/64_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "65": {
         "id": 65,
         "name": "Memory Leak",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2239,22 +1347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/65_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "66": {
         "id": 66,
         "name": "Overclocked",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2280,22 +1377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/66_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "67": {
         "id": 67,
         "name": "Electrostatic",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2321,22 +1407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/67_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "68": {
         "id": 68,
         "name": "Power Surge",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2362,22 +1437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/68_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "69": {
         "id": 69,
         "name": "Anti-Freeze",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2403,22 +1467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/69_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "70": {
         "id": 70,
         "name": "Time Warp",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2444,22 +1497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/70_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "71": {
         "id": 71,
         "name": "Green Black Hole",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2485,22 +1527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/71_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "72": {
         "id": 72,
         "name": "Roboactive",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2526,22 +1557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/72_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340749
+        }
     },
     "73": {
         "id": 73,
         "name": "Arcana",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2567,22 +1587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/73_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "74": {
         "id": 74,
         "name": "Spellbound",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2608,22 +1617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/74_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "75": {
         "id": 75,
         "name": "Chiroptera Venenata",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2649,22 +1647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/75_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "76": {
         "id": 76,
         "name": "Poisoned Shadows",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2690,22 +1677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/76_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "77": {
         "id": 77,
         "name": "Something Burning This Way Comes",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2731,22 +1707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/77_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "78": {
         "id": 78,
         "name": "Hellfire",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2772,22 +1737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/78_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "79": {
         "id": 79,
         "name": "Darkblaze",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2813,22 +1767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/79_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "80": {
         "id": 80,
         "name": "Demonflame",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2854,22 +1797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/80_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340749
+        }
     },
     "81": {
         "id": 81,
         "name": "Bonzo The All-Gnawing",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2895,30 +1827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/81_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340749
+        }
     },
     "82": {
         "id": 82,
         "name": "Amaranthine",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2944,30 +1857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/82_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340749
+        }
     },
     "83": {
         "id": 83,
         "name": "Stare From Beyond",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -2993,30 +1887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/83_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340749
+        }
     },
     "84": {
         "id": 84,
         "name": "The Ooze",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3042,30 +1917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/84_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340749
+        }
     },
     "85": {
         "id": 85,
         "name": "Ghastly Ghosts Jr",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3091,30 +1947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/85_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340749
+        }
     },
     "86": {
         "id": 86,
         "name": "Haunted Phantasm Jr",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3140,30 +1977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/86_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340749
+        }
     },
     "87": {
         "id": 87,
         "name": "Frostbite",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3189,22 +2007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/87_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340749
+        }
     },
     "88": {
         "id": 88,
         "name": "Molten Mallard",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3230,22 +2037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/88_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340749
+        }
     },
     "89": {
         "id": 89,
         "name": "Morning Glory",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3271,22 +2067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/89_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340749
+        }
     },
     "90": {
         "id": 90,
         "name": "Death at Dusk",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3312,22 +2097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/90_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340749
+        }
     },
     "91": {
         "id": 91,
         "name": "Abduction",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3353,26 +2127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/91_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "92": {
         "id": 92,
         "name": "Atomic",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3398,26 +2157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/92_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "93": {
         "id": 93,
         "name": "Subatomic",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3443,26 +2187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/93_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "94": {
         "id": 94,
         "name": "Electric Hat Protector",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3488,26 +2217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/94_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "95": {
         "id": 95,
         "name": "Magnetic Hat Protector",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3533,26 +2247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/95_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "96": {
         "id": 96,
         "name": "Voltaic Hat Protector",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3578,26 +2277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/96_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "97": {
         "id": 97,
         "name": "Galactic Codex",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3623,26 +2307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/97_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "98": {
         "id": 98,
         "name": "Ancient Codex",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3668,26 +2337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/98_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "99": {
         "id": 99,
         "name": "Nebula",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3713,26 +2367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/99_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340749
+        }
     },
     "100": {
         "id": 100,
         "name": "Death by Disco",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3758,22 +2397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/100_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "101": {
         "id": 101,
         "name": "It's a mystery to everyone",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3799,22 +2427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/101_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "102": {
         "id": 102,
         "name": "It's a puzzle to me",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3840,22 +2457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/102_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "103": {
         "id": 103,
         "name": "Ether Trail",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3881,22 +2487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/103_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "104": {
         "id": 104,
         "name": "Nether Trail",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3922,22 +2517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/104_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "105": {
         "id": 105,
         "name": "Ancient Eldritch",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -3963,22 +2547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/105_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "106": {
         "id": 106,
         "name": "Eldritch Flame",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4004,22 +2577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/106_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340749
+        }
     },
     "107": {
         "id": 107,
         "name": "Neutron Star",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4045,34 +2607,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/107_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340749
+        }
     },
     "108": {
         "id": 108,
         "name": "Tesla Coil",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4098,34 +2637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/108_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340749
+        }
     },
     "109": {
         "id": 109,
         "name": "Starstorm Insomnia",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4151,34 +2667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/109_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340749
+        }
     },
     "110": {
         "id": 110,
         "name": "Starstorm Slumber",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4204,34 +2697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/110_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340749
+        }
     },
     "111": {
         "id": 111,
         "name": "Brain Drain",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4257,30 +2727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/111_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "112": {
         "id": 112,
         "name": "Open Mind",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4306,30 +2757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/112_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "113": {
         "id": 113,
         "name": "Head of Steam",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4355,30 +2787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/113_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "114": {
         "id": 114,
         "name": "Galactic Gateway",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4404,30 +2817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/114_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "115": {
         "id": 115,
         "name": "The Eldritch Opening",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4453,30 +2847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/115_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "116": {
         "id": 116,
         "name": "The Dark Doorway",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4502,30 +2877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/116_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "117": {
         "id": 117,
         "name": "Ring of Fire",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4551,30 +2907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/117_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "118": {
         "id": 118,
         "name": "Vicious Circle",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4600,30 +2937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/118_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "119": {
         "id": 119,
         "name": "White Lightning",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4649,30 +2967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/119_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "120": {
         "id": 120,
         "name": "Omniscient Orb",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4698,30 +2997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/120_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "121": {
         "id": 121,
         "name": "Clairvoyance",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4747,30 +3027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/121_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340749
+        }
     },
     "122": {
         "id": 122,
         "name": "Fifth Dimension",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4796,30 +3057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/122_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "123": {
         "id": 123,
         "name": "Vicious Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4845,30 +3087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/123_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "124": {
         "id": 124,
         "name": "Menacing Miasma",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4894,30 +3117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/124_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "125": {
         "id": 125,
         "name": "Abyssal Aura",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4943,30 +3147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/125_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "126": {
         "id": 126,
         "name": "Wicked Wood",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -4992,30 +3177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/126_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "127": {
         "id": 127,
         "name": "Ghastly Grove",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5041,30 +3207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/127_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "128": {
         "id": 128,
         "name": "Mystical Medley",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5090,30 +3237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/128_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "129": {
         "id": 129,
         "name": "Ethereal Essence",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5139,30 +3267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/129_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "130": {
         "id": 130,
         "name": "Twisted Radiance",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5188,30 +3297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/130_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "131": {
         "id": 131,
         "name": "Violet Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5237,30 +3327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/131_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "132": {
         "id": 132,
         "name": "Verdant Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5286,30 +3357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/132_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "133": {
         "id": 133,
         "name": "Valiant Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5335,30 +3387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/133_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340749
+        }
     },
     "134": {
         "id": 134,
         "name": "Sparkling Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5384,30 +3417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/134_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "135": {
         "id": 135,
         "name": "Frozen Icefall",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5433,30 +3447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/135_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "136": {
         "id": 136,
         "name": "Fragmented Gluons",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5482,30 +3477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/136_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "137": {
         "id": 137,
         "name": "Fragmented Quarks",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5531,30 +3507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/137_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "138": {
         "id": 138,
         "name": "Fragmented Photons",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5580,30 +3537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/138_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "139": {
         "id": 139,
         "name": "Defragmenting Reality",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5629,30 +3567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/139_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "141": {
         "id": 141,
         "name": "Fragmenting Reality",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5678,30 +3597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/141_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "142": {
         "id": 142,
         "name": "Refragmenting Reality",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5727,30 +3627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/142_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "143": {
         "id": 143,
         "name": "Snowfallen",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5776,30 +3657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/143_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "144": {
         "id": 144,
         "name": "Snowblinded",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5825,30 +3687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/144_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "145": {
         "id": 145,
         "name": "Pyroland Daydream",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5874,30 +3717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/145_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340749
+        }
     },
     "147": {
         "id": 147,
         "name": "Verdatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5923,22 +3747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/147_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "148": {
         "id": 148,
         "name": "Aromatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -5964,22 +3777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/148_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "149": {
         "id": 149,
         "name": "Chromatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6005,22 +3807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/149_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "150": {
         "id": 150,
         "name": "Prismatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6046,22 +3837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/150_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "151": {
         "id": 151,
         "name": "Bee Swarm",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6087,22 +3867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/151_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "152": {
         "id": 152,
         "name": "Frisky Fireflies",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6128,22 +3897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/152_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "153": {
         "id": 153,
         "name": "Smoldering Spirits",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6169,22 +3927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/153_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "154": {
         "id": 154,
         "name": "Wandering Wisps",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6210,22 +3957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/154_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "155": {
         "id": 155,
         "name": "Kaleidoscope",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6251,22 +3987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/155_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340749
+        }
     },
     "156": {
         "id": 156,
         "name": "Green Giggler",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6292,30 +4017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/156_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "157": {
         "id": 157,
         "name": "Laugh-O-Lantern",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6341,30 +4047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/157_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "158": {
         "id": 158,
         "name": "Plum Prankster",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6390,30 +4077,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/158_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "159": {
         "id": 159,
         "name": "Pyroland Nightmare",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6439,30 +4107,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/159_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "160": {
         "id": 160,
         "name": "Gravelly Ghoul",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6488,30 +4137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/160_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "161": {
         "id": 161,
         "name": "Vexed Volcanics",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6537,30 +4167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/161_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "162": {
         "id": 162,
         "name": "Gourdian Angel",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6586,30 +4197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/162_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "163": {
         "id": 163,
         "name": "Pumpkin Party",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6635,30 +4227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/163_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340749
+        }
     },
     "164": {
         "id": 164,
         "name": "Frozen Fractals",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6684,30 +4257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/164_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "165": {
         "id": 165,
         "name": "Lavender Landfall",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6733,30 +4287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/165_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "166": {
         "id": 166,
         "name": "Special Snowfall",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6782,30 +4317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/166_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "167": {
         "id": 167,
         "name": "Divine Desire",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6831,30 +4347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/167_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "168": {
         "id": 168,
         "name": "Distant Dream",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6880,30 +4377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/168_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "169": {
         "id": 169,
         "name": "Violent Wintertide",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6929,30 +4407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/169_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "170": {
         "id": 170,
         "name": "Blighted Snowstorm",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -6978,30 +4437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/170_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "171": {
         "id": 171,
         "name": "Pale Nimbus",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7027,30 +4467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/171_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "172": {
         "id": 172,
         "name": "Genus Plasmos",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7076,30 +4497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/172_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "173": {
         "id": 173,
         "name": "Serenus Lumen",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7125,30 +4527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/173_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "174": {
         "id": 174,
         "name": "Ventum Maris",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7174,30 +4557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/174_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "175": {
         "id": 175,
         "name": "Mirthful Mistletoe",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7223,30 +4587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/175_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340749
+        }
     },
     "177": {
         "id": 177,
         "name": "Resonation",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7272,22 +4617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/177_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "178": {
         "id": 178,
         "name": "Aggradation",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7313,22 +4647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/178_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "179": {
         "id": 179,
         "name": "Lucidation",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7354,22 +4677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/179_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "180": {
         "id": 180,
         "name": "Stunning",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7395,22 +4707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/180_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "181": {
         "id": 181,
         "name": "Ardentum Saturnalis",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7436,22 +4737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/181_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "182": {
         "id": 182,
         "name": "Fragrancium Elementalis",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7477,22 +4767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/182_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "183": {
         "id": 183,
         "name": "Reverium Irregularis",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7518,22 +4797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/183_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "185": {
         "id": 185,
         "name": "Perennial Petals",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7559,22 +4827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/185_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "186": {
         "id": 186,
         "name": "Flavorsome Sunset",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7600,22 +4857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/186_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "187": {
         "id": 187,
         "name": "Raspberry Bloom",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7641,22 +4887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/187_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "188": {
         "id": 188,
         "name": "Iridescence",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7682,22 +4917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/188_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340749
+        }
     },
     "189": {
         "id": 189,
         "name": "Tempered Thorns",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7723,30 +4947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/189_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340749
+        }
     },
     "190": {
         "id": 190,
         "name": "Devilish Diablo",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7772,30 +4977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/190_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340749
+        }
     },
     "191": {
         "id": 191,
         "name": "Severed Serration",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7821,30 +5007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/191_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340749
+        }
     },
     "192": {
         "id": 192,
         "name": "Shrieking Shades",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7870,30 +5037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/192_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340749
+        }
     },
     "193": {
         "id": 193,
         "name": "Restless Wraiths",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7919,30 +5067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/193_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340749
+        }
     },
     "194": {
         "id": 194,
         "name": "Restless Wraiths",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -7968,30 +5097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/194_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "195": {
         "id": 195,
         "name": "Infernal Wraith",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8017,30 +5127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/195_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "196": {
         "id": 196,
         "name": "Phantom Crown",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8066,30 +5157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/196_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "197": {
         "id": 197,
         "name": "Ancient Specter",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8115,30 +5187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/197_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "198": {
         "id": 198,
         "name": "Viridescent Peeper",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8164,30 +5217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/198_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "199": {
         "id": 199,
         "name": "Eyes of Molten",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8213,30 +5247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/199_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "200": {
         "id": 200,
         "name": "Ominous Stare",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8262,30 +5277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/200_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "201": {
         "id": 201,
         "name": "Pumpkin Moon",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8311,30 +5307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/201_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "202": {
         "id": 202,
         "name": "Frantic Spooker",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8360,30 +5337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/202_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "203": {
         "id": 203,
         "name": "Frightened Poltergeist",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8409,30 +5367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/203_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "204": {
         "id": 204,
         "name": "Energetic Haunter",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8458,30 +5397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/204_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340750
+        }
     },
     "205": {
         "id": 205,
         "name": "Smissmas Tree",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8507,30 +5427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/205_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "206": {
         "id": 206,
         "name": "Hospitable Festivity",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8556,30 +5457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/206_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "207": {
         "id": 207,
         "name": "Condescending Embrace",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8605,79 +5487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/207_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
-    },
-    "208": {
-        "id": 208,
-        "name": "Condescending Embrace",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/208_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/208_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/208_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "209": {
         "id": 209,
         "name": "Sparkling Spruce",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8703,30 +5517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/209_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "210": {
         "id": 210,
         "name": "Glittering Juniper",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8752,30 +5547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/210_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "211": {
         "id": 211,
         "name": "Prismatic Pine",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8801,30 +5577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/211_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "212": {
         "id": 212,
         "name": "Spiraling Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8850,30 +5607,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/212_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "213": {
         "id": 213,
         "name": "Twisting Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8899,30 +5637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/213_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "214": {
         "id": 214,
         "name": "Stardust Pathway",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8948,30 +5667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/214_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "215": {
         "id": 215,
         "name": "Flurry Rush",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -8997,30 +5697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/215_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "216": {
         "id": 216,
         "name": "Spark of Smissmas",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9046,79 +5727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/216_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
-    },
-    "217": {
-        "id": 217,
-        "name": "Spark of Smissmas",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/217_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/217_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/217_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "218": {
         "id": 218,
         "name": "Polar Forecast",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9144,30 +5757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/218_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "219": {
         "id": 219,
         "name": "Shining Stag",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9193,30 +5787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/219_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "220": {
         "id": 220,
         "name": "Holiday Horns",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9242,30 +5817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/220_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "221": {
         "id": 221,
         "name": "Ardent Antlers",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9291,79 +5847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/221_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
-    },
-    "222": {
-        "id": 222,
-        "name": "Ardent Antlers",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/222_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/222_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/222_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "223": {
         "id": 223,
         "name": "Festive Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9389,30 +5877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/223_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340750
+        }
     },
     "224": {
         "id": 224,
         "name": "Crustacean Sensation",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9438,63 +5907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/224_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
-    },
-    "225": {
-        "id": 225,
-        "name": "Crustacean Sensation",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/225_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/225_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/225_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "226": {
         "id": 226,
         "name": "Frosted Decadence",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9520,63 +5937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/226_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
-    },
-    "227": {
-        "id": 227,
-        "name": "Frosted Decadence",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/227_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/227_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/227_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "228": {
         "id": 228,
         "name": "Sprinkled Delights",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9602,22 +5967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/228_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "229": {
         "id": 229,
         "name": "Terrestrial Favor",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9643,22 +5997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/229_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "230": {
         "id": 230,
         "name": "Tropical Thrill",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9684,22 +6027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/230_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "231": {
         "id": 231,
         "name": "Flourishing Passion",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9725,22 +6057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/231_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "232": {
         "id": 232,
         "name": "Dazzling Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9766,22 +6087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/232_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "233": {
         "id": 233,
         "name": "Blazing Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9807,63 +6117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/233_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
-    },
-    "234": {
-        "id": 234,
-        "name": "Shimmering Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/234_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/234_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/234_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "235": {
         "id": 235,
         "name": "Twinkling Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9889,22 +6147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/235_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "236": {
         "id": 236,
         "name": "Sparkling Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9930,22 +6177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/236_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "237": {
         "id": 237,
         "name": "Glowing Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -9971,63 +6207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/237_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
-    },
-    "238": {
-        "id": 238,
-        "name": "Glimmering Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/238_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/238_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/238_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "239": {
         "id": 239,
         "name": "Flying Lights",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10053,63 +6237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/239_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
-    },
-    "240": {
-        "id": 240,
-        "name": "Flying Lights",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/240_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/240_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/240_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "241": {
         "id": 241,
         "name": "Limelight",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10135,22 +6267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/241_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "242": {
         "id": 242,
         "name": "Shining Star",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10176,22 +6297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/242_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "243": {
         "id": 243,
         "name": "Cold Cosmos",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10217,22 +6327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/243_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "244": {
         "id": 244,
         "name": "Refracting Fractals",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10258,22 +6357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/244_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "245": {
         "id": 245,
         "name": "Startrance",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10299,63 +6387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/245_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
-    },
-    "246": {
-        "id": 246,
-        "name": "Startrance",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/246_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/246_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/246_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "247": {
         "id": 247,
         "name": "Starlush",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10381,22 +6417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/247_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "248": {
         "id": 248,
         "name": "Starfire",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10422,22 +6447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/248_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "249": {
         "id": 249,
         "name": "Stardust",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10463,22 +6477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/249_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "250": {
         "id": 250,
         "name": "Contagious Eruption",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10504,22 +6507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/250_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "251": {
         "id": 251,
         "name": "Daydream Eruption",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10545,22 +6537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/251_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "252": {
         "id": 252,
         "name": "Volcanic Eruption",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10586,22 +6567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/252_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "253": {
         "id": 253,
         "name": "Divine Sunlight",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10627,22 +6597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/253_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "254": {
         "id": 254,
         "name": "Audiophile",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10668,22 +6627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/254_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "255": {
         "id": 255,
         "name": "Soundwave",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10709,22 +6657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/255_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "256": {
         "id": 256,
         "name": "Synesthesia",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10750,22 +6687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/256_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340750
+        }
     },
     "257": {
         "id": 257,
         "name": "Haunted Kraken",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10791,30 +6717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/257_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "258": {
         "id": 258,
         "name": "Eerie Kraken",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10840,30 +6747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/258_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "259": {
         "id": 259,
         "name": "Soulful Slice",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10889,30 +6777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/259_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "260": {
         "id": 260,
         "name": "Horsemann's Hack",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10938,30 +6807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/260_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "261": {
         "id": 261,
         "name": "Haunted Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -10987,79 +6837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/261_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
-    },
-    "262": {
-        "id": 262,
-        "name": "Haunted Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/262_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/262_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/262_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "263": {
         "id": 263,
         "name": "Forever And Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11085,30 +6867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/263_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "264": {
         "id": 264,
         "name": "Cursed Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11134,30 +6897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/264_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "265": {
         "id": 265,
         "name": "Moth Plague",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11183,30 +6927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/265_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "266": {
         "id": 266,
         "name": "Malevolent Monoculi",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11232,30 +6957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/266_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "267": {
         "id": 267,
         "name": "Haunted Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11281,79 +6987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/267_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
-    },
-    "268": {
-        "id": 268,
-        "name": "Haunted Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/268_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/268_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/268_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "269": {
         "id": 269,
         "name": "Wicked Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11379,30 +7017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/269_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "270": {
         "id": 270,
         "name": "Spectral Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11428,30 +7047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/270_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340750
+        }
     },
     "271": {
         "id": 271,
         "name": "Musical Maelstrom",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11477,26 +7077,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/271_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "272": {
         "id": 272,
         "name": "Verdant Virtuoso",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11522,26 +7107,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/272_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "273": {
         "id": 273,
         "name": "Silver Serenade",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11567,26 +7137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/273_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "274": {
         "id": 274,
         "name": "Cosmic Constellations",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11612,71 +7167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/274_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
-    },
-    "275": {
-        "id": 275,
-        "name": "Cosmic Constellations",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/275_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/275_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/275_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "276": {
         "id": 276,
         "name": "Dazzling Constellations",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11702,26 +7197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/276_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "277": {
         "id": 277,
         "name": "Tainted Frost",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11747,26 +7227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/277_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "278": {
         "id": 278,
         "name": "Starlight Haze",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11792,26 +7257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/278_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340750
+        }
     },
     "279": {
         "id": 279,
         "name": "Hard Carry",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11837,63 +7287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/279_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
-    },
-    "280": {
-        "id": 280,
-        "name": "Hard Carry",
-        "type": "cosmetics",
-        "series": "Summer 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/280_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/280_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/280_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "281": {
         "id": 281,
         "name": "Jellyfish Field",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -11919,63 +7317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/281_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
-    },
-    "282": {
-        "id": 282,
-        "name": "Jellyfish Field",
-        "type": "cosmetics",
-        "series": "Summer 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/282_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/282_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/282_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "283": {
         "id": 283,
         "name": "Jellyfish Hunter",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12001,22 +7347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/283_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "284": {
         "id": 284,
         "name": "Jellyfish Jam",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12042,22 +7377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/284_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "285": {
         "id": 285,
         "name": "Global Clusters",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12083,22 +7407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/285_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "286": {
         "id": 286,
         "name": "Celestial Starburst",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12124,22 +7437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/286_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "287": {
         "id": 287,
         "name": "Sylicone Succiduous",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12165,22 +7467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/287_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "288": {
         "id": 288,
         "name": "Sakura Smoke Bomb",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12206,22 +7497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/288_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "289": {
         "id": 289,
         "name": "Treasure Trove",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12247,22 +7527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/289_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "290": {
         "id": 290,
         "name": "Bubble Breeze",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12288,22 +7557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/290_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "291": {
         "id": 291,
         "name": "Fireflies",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12329,22 +7587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/291_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "292": {
         "id": 292,
         "name": "Mountain Halo",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12370,22 +7617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/292_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340750
+        }
     },
     "293": {
         "id": 293,
         "name": "Celestial Summit",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12411,30 +7647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/293_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
+        }
     },
     "294": {
         "id": 294,
         "name": "Stellar Ascent",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12460,30 +7677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/294_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
+        }
     },
     "295": {
         "id": 295,
         "name": "Sapped",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12509,79 +7707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/295_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
-    },
-    "296": {
-        "id": 296,
-        "name": "Sapped",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/296_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/296_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/296_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
+        }
     },
     "297": {
         "id": 297,
         "name": "Hellspawned Horns",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12607,79 +7737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/297_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
-    },
-    "298": {
-        "id": 298,
-        "name": "Hellspawned Horns",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/298_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/298_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/298_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
+        }
     },
     "299": {
         "id": 299,
         "name": "Demonic Impaler",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12705,30 +7767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/299_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
+        }
     },
     "300": {
         "id": 300,
         "name": "Revenant's Rack",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12754,30 +7797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/300_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340750
+        }
     },
     "301": {
         "id": 301,
         "name": "Sixth Sense",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12803,79 +7827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/301_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
-    },
-    "302": {
-        "id": 302,
-        "name": "Sixth Sense",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/302_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/302_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/302_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "303": {
         "id": 303,
         "name": "Amygdala",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12901,30 +7857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/303_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "304": {
         "id": 304,
         "name": "The Bone Zone",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12950,30 +7887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/304_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "305": {
         "id": 305,
         "name": "Arachne's Web",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -12999,30 +7917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/305_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "306": {
         "id": 306,
         "name": "Acidic Climate",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13048,30 +7947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/306_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "307": {
         "id": 307,
         "name": "Otherworldly Weather",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13097,30 +7977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/307_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "308": {
         "id": 308,
         "name": "Nightmarish Storm",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13146,30 +8007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/308_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "309": {
         "id": 309,
         "name": "Icestruck",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13195,71 +8037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/309_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "310": {
-        "id": 310,
-        "name": "Icestruck",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/310_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/310_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/310_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "311": {
         "id": 311,
         "name": "Goldstruck",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13285,26 +8067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/311_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "312": {
         "id": 312,
         "name": "Radiant Rivalry",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13330,71 +8097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/312_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "313": {
-        "id": 313,
-        "name": "Radiant Rivalry",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/313_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/313_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/313_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "314": {
         "id": 314,
         "name": "Radiant Legacy",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13420,26 +8127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/314_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "315": {
         "id": 315,
         "name": "Frosty Flavours",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13465,71 +8157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/315_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "316": {
-        "id": 316,
-        "name": "Frosty Flavours",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/316_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/316_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/316_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "317": {
         "id": 317,
         "name": "Mint Frost",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13555,26 +8187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/317_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "318": {
         "id": 318,
         "name": "North Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13600,71 +8217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/318_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "319": {
-        "id": 319,
-        "name": "North Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/319_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/319_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/319_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "320": {
         "id": 320,
         "name": "Prettiest Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13690,26 +8247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/320_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "321": {
         "id": 321,
         "name": "Festive Falling Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13735,26 +8277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/321_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "322": {
         "id": 322,
         "name": "Lunar Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13780,71 +8307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/322_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "323": {
-        "id": 323,
-        "name": "Lunar Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/323_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/323_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/323_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "324": {
         "id": 324,
         "name": "Fairy Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13870,26 +8337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/324_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "325": {
         "id": 325,
         "name": "Natural Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13915,26 +8367,551 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/325_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
+        }
+    },
+    "327": {
+        "id": 327,
+        "name": "Loyalist's Coronet",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/327_94x94.png"
             },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/327_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/327_380x380.png"
             }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
+    },
+    "329": {
+        "id": 329,
+        "name": "Knight's Prideful Spirit",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/329_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/329_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/329_380x380.png"
+            }
+        }
+    },
+    "330": {
+        "id": 330,
+        "name": "Baron's Cherished Chaplet",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/330_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/330_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/330_380x380.png"
+            }
+        }
+    },
+    "331": {
+        "id": 331,
+        "name": "Lure of the Deep",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/331_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/331_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/331_380x380.png"
+            }
+        }
+    },
+    "333": {
+        "id": 333,
+        "name": "Violent Viridian",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/333_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/333_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/333_380x380.png"
+            }
+        }
+    },
+    "334": {
+        "id": 334,
+        "name": "Magenta Monstrum",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/334_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/334_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/334_380x380.png"
+            }
+        }
+    },
+    "335": {
+        "id": 335,
+        "name": "Rainbow Reverie",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/335_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/335_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/335_380x380.png"
+            }
+        }
+    },
+    "336": {
+        "id": 336,
+        "name": "Cuban Smoke",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/336_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/336_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/336_380x380.png"
+            }
+        }
+    },
+    "337": {
+        "id": 337,
+        "name": "Melting Mohawk",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/337_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/337_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/337_380x380.png"
+            }
+        }
+    },
+    "339": {
+        "id": 339,
+        "name": "Scorched Scalp",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/339_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/339_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/339_380x380.png"
+            }
+        }
+    },
+    "340": {
+        "id": 340,
+        "name": "Ignited Crest",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/340_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/340_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/340_380x380.png"
+            }
+        }
+    },
+    "341": {
+        "id": 341,
+        "name": "Rare Shine",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/341_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/341_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/341_380x380.png"
+            }
+        }
+    },
+    "342": {
+        "id": 342,
+        "name": "Distant Drift",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/342_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/342_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/342_380x380.png"
+            }
+        }
+    },
+    "344": {
+        "id": 344,
+        "name": "Warp Drive",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/344_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/344_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/344_380x380.png"
+            }
+        }
+    },
+    "345": {
+        "id": 345,
+        "name": "Overdrive",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/345_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/345_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/345_380x380.png"
+            }
+        }
+    },
+    "346": {
+        "id": 346,
+        "name": "Butterfly Season",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/346_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/346_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/346_380x380.png"
+            }
+        }
+    },
+    "348": {
+        "id": 348,
+        "name": "Psycho-delic",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/348_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/348_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/348_380x380.png"
+            }
+        }
+    },
+    "349": {
+        "id": 349,
+        "name": "Bewitching Bugs",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/349_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/349_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/349_380x380.png"
+            }
+        }
     },
     "701": {
         "id": 701,
         "name": "Hot",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -13960,26 +8937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/701_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340751
+        }
     },
     "702": {
         "id": 702,
         "name": "Isotope",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14005,26 +8967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/702_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340751
+        }
     },
     "703": {
         "id": 703,
         "name": "Cool",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14050,26 +8997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/703_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340751
+        }
     },
     "704": {
         "id": 704,
         "name": "Energy Orb",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14095,26 +9027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/704_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340751
+        }
     },
     "3001": {
         "id": 3001,
         "name": "Showstopper",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14140,30 +9057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3001_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3002": {
         "id": 3002,
         "name": "Showstopper",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14189,30 +9087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3002_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3003": {
         "id": 3003,
         "name": "Holy Grail",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14238,30 +9117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3003_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3004": {
         "id": 3004,
         "name": "'72",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14287,30 +9147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3004_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3005": {
         "id": 3005,
         "name": "Fountain of Delight",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14336,30 +9177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3005_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3006": {
         "id": 3006,
         "name": "Screaming Tiger",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14385,30 +9207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3006_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3007": {
         "id": 3007,
         "name": "Skill Gotten Gains",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14434,30 +9237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3007_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3008": {
         "id": 3008,
         "name": "Midnight Whirlwind",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14483,30 +9267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3008_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3009": {
         "id": 3009,
         "name": "Silver Cyclone",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14532,30 +9297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3009_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3010": {
         "id": 3010,
         "name": "Mega Strike",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14581,30 +9327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3010_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340751
+        }
     },
     "3011": {
         "id": 3011,
         "name": "Haunted Phantasm",
-        "type": "taunts",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14630,30 +9357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3011_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "3012": {
         "id": 3012,
         "name": "Ghastly Ghosts",
-        "type": "taunts",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14679,30 +9387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3012_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "3013": {
         "id": 3013,
         "name": "Hellish Inferno",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14728,34 +9417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3013_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340751
+        }
     },
     "3014": {
         "id": 3014,
         "name": "Spectral Swirl",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14781,34 +9447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3014_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340751
+        }
     },
     "3015": {
         "id": 3015,
         "name": "Infernal Flames",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14834,34 +9477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3015_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340751
+        }
     },
     "3016": {
         "id": 3016,
         "name": "Infernal Smoke",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14887,34 +9507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3016_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340751
+        }
     },
     "3017": {
         "id": 3017,
         "name": "Acidic Bubbles of Envy",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14940,30 +9537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3017_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340751
+        }
     },
     "3018": {
         "id": 3018,
         "name": "Flammable Bubbles of Attraction",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -14989,30 +9567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3018_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340751
+        }
     },
     "3019": {
         "id": 3019,
         "name": "Poisonous Bubbles of Regret",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15038,30 +9597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3019_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340751
+        }
     },
     "3020": {
         "id": 3020,
         "name": "Roaring Rockets",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15087,30 +9627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3020_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340751
+        }
     },
     "3021": {
         "id": 3021,
         "name": "Spooky Night",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15136,30 +9657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3021_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340751
+        }
     },
     "3022": {
         "id": 3022,
         "name": "Ominous Night",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15185,30 +9687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3022_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340751
+        }
     },
     "3023": {
         "id": 3023,
         "name": "Bewitched",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15234,30 +9717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3023_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3024": {
         "id": 3024,
         "name": "Accursed",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15283,30 +9747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3024_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3025": {
         "id": 3025,
         "name": "Enchanted",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15332,30 +9777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3025_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3026": {
         "id": 3026,
         "name": "Static Mist",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15381,30 +9807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3026_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3027": {
         "id": 3027,
         "name": "Eerie Lightning",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15430,30 +9837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3027_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3028": {
         "id": 3028,
         "name": "Terrifying Thunder",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15479,30 +9867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3028_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3029": {
         "id": 3029,
         "name": "Jarate Shock",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15528,30 +9897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3029_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3030": {
         "id": 3030,
         "name": "Nether Void",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15577,30 +9927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3030_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340751
+        }
     },
     "3031": {
         "id": 3031,
         "name": "Good-Hearted Goodies",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15626,30 +9957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3031_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340751
+        }
     },
     "3032": {
         "id": 3032,
         "name": "Wintery Wisp",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15675,30 +9987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3032_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340751
+        }
     },
     "3033": {
         "id": 3033,
         "name": "Arctic Aurora",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15724,30 +10017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3033_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340751
+        }
     },
     "3034": {
         "id": 3034,
         "name": "Winter Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15773,30 +10047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3034_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340751
+        }
     },
     "3035": {
         "id": 3035,
         "name": "Festive Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15822,30 +10077,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3035_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340751
+        }
     },
     "3036": {
         "id": 3036,
         "name": "Magical Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15871,30 +10107,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3036_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340751
+        }
     },
     "3037": {
         "id": 3037,
         "name": "Spectral Escort",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15920,30 +10137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3037_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3038": {
         "id": 3038,
         "name": "Astral Presence",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -15969,30 +10167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3038_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3039": {
         "id": 3039,
         "name": "Arcane Assistance",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16018,30 +10197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3039_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3040": {
         "id": 3040,
         "name": "Arcane Assistance",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16067,30 +10227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3040_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3041": {
         "id": 3041,
         "name": "Emerald Allurement",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16116,30 +10257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3041_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3042": {
         "id": 3042,
         "name": "Pyrophoric Personality",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16165,30 +10287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3042_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3043": {
         "id": 3043,
         "name": "Spellbound Aspect",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16214,30 +10317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3043_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3044": {
         "id": 3044,
         "name": "Static Shock",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16263,30 +10347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3044_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3045": {
         "id": 3045,
         "name": "Veno Shock",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16312,30 +10377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3045_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3046": {
         "id": 3046,
         "name": "Toxic Terrors",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16361,30 +10407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3046_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3047": {
         "id": 3047,
         "name": "Arachnid Assault",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16410,30 +10437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3047_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3048": {
         "id": 3048,
         "name": "Creepy Crawlies",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16459,30 +10467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3048_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340751
+        }
     },
     "3049": {
         "id": 3049,
         "name": "Delightful Star",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16508,30 +10497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3049_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3050": {
         "id": 3050,
         "name": "Frosted Star",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16557,30 +10527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3050_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3051": {
         "id": 3051,
         "name": "Apotheosis",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16606,30 +10557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3051_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3052": {
         "id": 3052,
         "name": "Ascension",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16655,30 +10587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3052_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3053": {
         "id": 3053,
         "name": "Reindoonicorn Rancher",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16704,30 +10617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3053_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3054": {
         "id": 3054,
         "name": "Reindoonicorn Rancher",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16753,30 +10647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3054_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3055": {
         "id": 3055,
         "name": "Twinkling Lights",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16802,30 +10677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3055_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3056": {
         "id": 3056,
         "name": "Shimmering Lights",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16851,30 +10707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3056_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340751
+        }
     },
     "3059": {
         "id": 3059,
         "name": "Spectral Shackles",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16900,30 +10737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3059_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3060": {
         "id": 3060,
         "name": "Cursed Confinement",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16949,30 +10767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3060_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3061": {
         "id": 3061,
         "name": "Cavalier de Carte",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -16998,30 +10797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3061_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3062": {
         "id": 3062,
         "name": "Cavalier de Carte",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17047,30 +10827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3062_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3063": {
         "id": 3063,
         "name": "Hollow Flourish",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17096,30 +10857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3063_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3064": {
         "id": 3064,
         "name": "Magic Shuffle",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17145,30 +10887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3064_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3065": {
         "id": 3065,
         "name": "Vigorous Pulse",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17194,30 +10917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3065_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3066": {
         "id": 3066,
         "name": "Thundering Spirit",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17243,30 +10947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3066_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3067": {
         "id": 3067,
         "name": "Galvanic Defiance",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17292,30 +10977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3067_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3068": {
         "id": 3068,
         "name": "Wispy Halos",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17341,30 +11007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3068_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3069": {
         "id": 3069,
         "name": "Nether Wisps",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17390,30 +11037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3069_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3070": {
         "id": 3070,
         "name": "Aurora Borealis",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17439,30 +11067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3070_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3071": {
         "id": 3071,
         "name": "Aurora Australis",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17488,30 +11097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3071_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3072": {
         "id": 3072,
         "name": "Aurora Polaris",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17537,30 +11127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3072_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340751
+        }
     },
     "3073": {
         "id": 3073,
         "name": "Amethyst Winds",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17586,30 +11157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3073_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3074": {
         "id": 3074,
         "name": "Golden Gusts",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17635,30 +11187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3074_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3075": {
         "id": 3075,
         "name": "Smissmas Swirls",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17684,79 +11217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3075_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
-    },
-    "3076": {
-        "id": 3076,
-        "name": "Smissmas Swirls",
-        "type": "taunts",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3076_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3076_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3076_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3077": {
         "id": 3077,
         "name": "Minty Cypress",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17782,30 +11247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3077_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3078": {
         "id": 3078,
         "name": "Pristine Pine",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17831,30 +11277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3078_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3079": {
         "id": 3079,
         "name": "Sparkly Spruce",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17880,79 +11307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3079_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
-    },
-    "3080": {
-        "id": 3080,
-        "name": "Sparkly Spruce",
-        "type": "taunts",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3080_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3080_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3080_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3081": {
         "id": 3081,
         "name": "Festive Fever",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -17978,79 +11337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3081_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
-    },
-    "3082": {
-        "id": 3082,
-        "name": "Festive Fever",
-        "type": "taunts",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3082_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3082_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3082_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3083": {
         "id": 3083,
         "name": "Golden Glimmer",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18076,30 +11367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3083_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3084": {
         "id": 3084,
         "name": "Frosty Silver",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18125,30 +11397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3084_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3085": {
         "id": 3085,
         "name": "Glamorous Dazzle",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18174,79 +11427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3085_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
-    },
-    "3086": {
-        "id": 3086,
-        "name": "Glamorous Dazzle",
-        "type": "taunts",
-        "series": "Smissmas 2021",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3086_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3086_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3086_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3087": {
         "id": 3087,
         "name": "Sublime Snowstorm",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18272,30 +11457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3087_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340751
+        }
     },
     "3088": {
         "id": 3088,
         "name": "Marigold Ritual",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18321,79 +11487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3088_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
-    },
-    "3089": {
-        "id": 3089,
-        "name": "Marigold Ritual",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3089_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3089_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3089_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3090": {
         "id": 3090,
         "name": "Pungent Poison",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18419,30 +11517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3090_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3091": {
         "id": 3091,
         "name": "Blazed Brew",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18468,30 +11547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3091_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3092": {
         "id": 3092,
         "name": "Mysterious Mixture",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18517,30 +11577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3092_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3093": {
         "id": 3093,
         "name": "Linguistic Deviation",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18566,30 +11607,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3093_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3094": {
         "id": 3094,
         "name": "Aurelian Seal",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18615,30 +11637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3094_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3095": {
         "id": 3095,
         "name": "Runic Imprisonment",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18664,79 +11667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3095_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
-    },
-    "3096": {
-        "id": 3096,
-        "name": "Runic Imprisonment",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3096_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3096_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3096_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3097": {
         "id": 3097,
         "name": "Prismatic Haze",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18762,30 +11697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3097_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3098": {
         "id": 3098,
         "name": "Rising Ritual",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18811,79 +11727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3098_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
-    },
-    "3099": {
-        "id": 3099,
-        "name": "Rising Ritual",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3099_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3099_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3099_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3100": {
         "id": 3100,
         "name": "Bloody Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -18909,79 +11757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3100_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
-    },
-    "3101": {
-        "id": 3101,
-        "name": "Bloody Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3101_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3101_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3101_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3102": {
         "id": 3102,
         "name": "Toxic Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19007,30 +11787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3102_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3103": {
         "id": 3103,
         "name": "Infernal Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19056,30 +11817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3103_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3104": {
         "id": 3104,
         "name": "Death Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19105,30 +11847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3104_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340751
+        }
     },
     "3105": {
         "id": 3105,
         "name": "Charged Arcane",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19154,26 +11877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3105_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3106": {
         "id": 3106,
         "name": "Thunderous Rage",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19199,26 +11907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3106_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3107": {
         "id": 3107,
         "name": "Convulsive Fiery",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19244,26 +11937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3107_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3108": {
         "id": 3108,
         "name": "Festivized Formation",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19289,71 +11967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3108_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
-    },
-    "3109": {
-        "id": 3109,
-        "name": "Festivized Formation",
-        "type": "taunts",
-        "series": "Smissmas 2022",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3109_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3109_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3109_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3110": {
         "id": 3110,
         "name": "Twirling Spirits",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19379,26 +11997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3110_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3111": {
         "id": 3111,
         "name": "Squash n' Twist",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19424,26 +12027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3111_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3112": {
         "id": 3112,
         "name": "Midnight Sparklers",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19469,26 +12057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3112_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3113": {
         "id": 3113,
         "name": "Boundless Blizzard",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19514,26 +12087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3113_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340751
+        }
     },
     "3114": {
         "id": 3114,
         "name": "Solar Scorched",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19559,22 +12117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3114_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3115": {
         "id": 3115,
         "name": "Deepsea Rave",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19600,63 +12147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3115_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
-    },
-    "3116": {
-        "id": 3116,
-        "name": "Deepsea Rave",
-        "type": "taunts",
-        "series": "Summer 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3116_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3116_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3116_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3117": {
         "id": 3117,
         "name": "Blooming Beacon",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19682,22 +12177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3117_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3118": {
         "id": 3118,
         "name": "Beaming Beacon",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19723,22 +12207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3118_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3119": {
         "id": 3119,
         "name": "Blazing Beacon",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19764,22 +12237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3119_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3120": {
         "id": 3120,
         "name": "Floppin' Frenzy",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19805,22 +12267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3120_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3121": {
         "id": 3121,
         "name": "Pastel Trance",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19846,63 +12297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3121_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
-    },
-    "3122": {
-        "id": 3122,
-        "name": "Pastel Trance",
-        "type": "taunts",
-        "series": "Summer 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3122_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3122_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3122_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3123": {
         "id": 3123,
         "name": "Wildflower Meadows",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19928,22 +12327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3123_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340751
+        }
     },
     "3124": {
         "id": 3124,
         "name": "Deep-sea Devourer",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -19969,30 +12357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3124_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3125": {
         "id": 3125,
         "name": "Eldritch Horror",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20018,30 +12387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3125_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3126": {
         "id": 3126,
         "name": "Autumn Leaves",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20067,30 +12417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3126_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3127": {
         "id": 3127,
         "name": "Dead Man's Party",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20116,30 +12447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3127_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3128": {
         "id": 3128,
         "name": "Potion Explosion",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20165,30 +12477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3128_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3129": {
         "id": 3129,
         "name": "Haunted Cremation",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20214,30 +12507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3129_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3130": {
         "id": 3130,
         "name": "Cremation",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20263,30 +12537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3130_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340751
+        }
     },
     "3131": {
         "id": 3131,
         "name": "Snowfall",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20312,26 +12567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3131_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3132": {
         "id": 3132,
         "name": "Galactic Connection",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20357,71 +12597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3132_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "3133": {
-        "id": 3133,
-        "name": "Galactic Connection",
-        "type": "taunts",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3133_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3133_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3133_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3134": {
         "id": 3134,
         "name": "Dark Twilight",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20447,26 +12627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3134_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3135": {
         "id": 3135,
         "name": "Eldritch Rift",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20492,26 +12657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3135_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3136": {
         "id": 3136,
         "name": "Selfless Sensation",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20537,26 +12687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3136_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3137": {
         "id": 3137,
         "name": "Distant Desire",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20582,26 +12717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3137_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3138": {
         "id": 3138,
         "name": "Glamorous Glance",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20627,26 +12747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3138_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3139": {
         "id": 3139,
         "name": "Permafrost Essence",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20672,71 +12777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3139_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
-    },
-    "3140": {
-        "id": 3140,
-        "name": "Permafrost Essence",
-        "type": "taunts",
-        "series": "Smissmas 2023",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3140_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3140_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/3140_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3141": {
         "id": 3141,
         "name": "Arctic Delight",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20762,26 +12807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3141_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3142": {
         "id": 3142,
         "name": "Winning Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20807,26 +12837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3142_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
     "3143": {
         "id": 3143,
         "name": "Petal Prance",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20852,26 +12867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3143_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
     },
-    "3144": {
-        "id": 3144,
-        "name": "Petal Prance",
-        "type": "taunts",
-        "series": "Smissmas 2023",
+    "3145": {
+        "id": 3145,
+        "name": "Dragonflies' Embrace",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20879,7 +12879,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3144_94x94.png"
+                "url": "https://backpack.tf/images/440/particles/3145_94x94.png"
             },
             "medium": {
                 "size": "188x188",
@@ -20887,7 +12887,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3144_188x188.png"
+                "url": "https://backpack.tf/images/440/particles/3145_188x188.png"
             },
             "large": {
                 "size": "380x380",
@@ -20895,28 +12895,583 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3144_380x380.png"
+                "url": "https://backpack.tf/images/440/particles/3145_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
+        }
+    },
+    "3147": {
+        "id": 3147,
+        "name": "Dragonflies' Nature",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3147_94x94.png"
             },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3147_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3147_380x380.png"
             }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340751
+        }
+    },
+    "3148": {
+        "id": 3148,
+        "name": "Dragonflies' Lucent",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3148_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3148_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3148_380x380.png"
+            }
+        }
+    },
+    "3149": {
+        "id": 3149,
+        "name": "Electrocution",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3149_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3149_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3149_380x380.png"
+            }
+        }
+    },
+    "3151": {
+        "id": 3151,
+        "name": "Distress Signal",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3151_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3151_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3151_380x380.png"
+            }
+        }
+    },
+    "3153": {
+        "id": 3153,
+        "name": "Carioca's Call",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3153_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3153_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3153_380x380.png"
+            }
+        }
+    },
+    "3154": {
+        "id": 3154,
+        "name": "Fiesta Royale",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3154_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3154_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3154_380x380.png"
+            }
+        }
+    },
+    "3156": {
+        "id": 3156,
+        "name": "Grand Jubilee",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3156_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3156_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3156_380x380.png"
+            }
+        }
+    },
+    "3157": {
+        "id": 3157,
+        "name": "Elemental",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3157_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3157_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3157_380x380.png"
+            }
+        }
+    },
+    "3159": {
+        "id": 3159,
+        "name": "Godlike",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3159_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3159_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3159_380x380.png"
+            }
+        }
+    },
+    "3160": {
+        "id": 3160,
+        "name": "Teamwork Valorance",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3160_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3160_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3160_380x380.png"
+            }
+        }
+    },
+    "3162": {
+        "id": 3162,
+        "name": "Legacy Logo",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3162_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3162_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3162_380x380.png"
+            }
+        }
+    },
+    "3163": {
+        "id": 3163,
+        "name": "Desert Wind",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3163_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3163_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3163_380x380.png"
+            }
+        }
+    },
+    "3164": {
+        "id": 3164,
+        "name": "Monsoon Season",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3164_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3164_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3164_380x380.png"
+            }
+        }
+    },
+    "3165": {
+        "id": 3165,
+        "name": "Bountiful Riches",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3165_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3165_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3165_380x380.png"
+            }
+        }
+    },
+    "3167": {
+        "id": 3167,
+        "name": "Luxurious Lover",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3167_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3167_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3167_380x380.png"
+            }
+        }
+    },
+    "3168": {
+        "id": 3168,
+        "name": "Amatory",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3168_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3168_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3168_380x380.png"
+            }
+        }
+    },
+    "3170": {
+        "id": 3170,
+        "name": "Electrum",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3170_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3170_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3170_380x380.png"
+            }
+        }
+    },
+    "3171": {
+        "id": 3171,
+        "name": "Sakura Blessings",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3171_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3171_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3171_380x380.png"
+            }
+        }
+    },
+    "3173": {
+        "id": 3173,
+        "name": "Violent Violets",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3173_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3173_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3173_380x380.png"
+            }
+        }
     },
     "Community Sparkle": {
         "id": 4,
         "name": "Community Sparkle",
-        "type": "cosmetics",
-        "series": "Community Sparkle",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20942,17 +13497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/4_380x380.png"
             }
-        },
-        "crates": [],
-        "date_added": 1268866800000,
-        "update_name": "First Community Contribution Update",
-        "last_update": 1703677340751
+        }
     },
     "Holy Glow": {
         "id": 5,
         "name": "Holy Glow",
-        "type": "cosmetics",
-        "series": "Miscellaneous",
         "images": {
             "small": {
                 "size": "94x94",
@@ -20978,17 +13527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/5_380x380.png"
             }
-        },
-        "crates": [],
-        "date_added": 1251842400000,
-        "update_name": "September 2, 2009 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Green Confetti": {
         "id": 6,
         "name": "Green Confetti",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21014,38 +13557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/6_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Purple Confetti": {
         "id": 7,
         "name": "Purple Confetti",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21071,38 +13587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/7_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Haunted Ghosts": {
         "id": 8,
         "name": "Haunted Ghosts",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21128,38 +13617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/8_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Green Energy": {
         "id": 9,
         "name": "Green Energy",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21185,38 +13647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/9_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Purple Energy": {
         "id": 10,
         "name": "Purple Energy",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21242,38 +13677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/10_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Circling TF Logo": {
         "id": 11,
         "name": "Circling TF Logo",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21299,38 +13707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/11_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Massed Flies": {
         "id": 12,
         "name": "Massed Flies",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21356,38 +13737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/12_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Burning Flames": {
         "id": 13,
         "name": "Burning Flames",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21413,38 +13767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/13_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Scorching Flames": {
         "id": 14,
         "name": "Scorching Flames",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21470,38 +13797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/14_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Searing Plasma": {
         "id": 15,
         "name": "Searing Plasma",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21527,38 +13827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/15_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Vivid Plasma": {
         "id": 16,
         "name": "Vivid Plasma",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21584,38 +13857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/16_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Sunbeams": {
         "id": 17,
         "name": "Sunbeams",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21641,38 +13887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/17_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Circling Peace Sign": {
         "id": 18,
         "name": "Circling Peace Sign",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21698,38 +13917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/18_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Circling Heart": {
         "id": 19,
         "name": "Circling Heart",
-        "type": "cosmetics",
-        "series": "Series 1",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21755,38 +13947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/19_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#1",
-                "series_end": "#25",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1285797600000,
-        "update_name": "Mann-Conomy Update",
-        "last_update": 1703677340751
+        }
     },
     "Map Stamps": {
         "id": 20,
         "name": "Map Stamps",
-        "type": "cosmetics",
-        "series": "Map Stamps Collection",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21812,15 +13977,41 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/20_380x380.png"
             }
-        },
-        "crates": [],
-        "last_update": 1703677340751
+        }
+    },
+    "Genteel Smoke": {
+        "id": 28,
+        "name": "Genteel Smoke",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/28_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/28_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/28_380x380.png"
+            }
+        }
     },
     "Stormy Storm": {
         "id": 29,
         "name": "Stormy Storm",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21846,38 +14037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/29_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Blizzardy Storm": {
         "id": 30,
         "name": "Blizzardy Storm",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21903,38 +14067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/30_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Nuts n' Bolts": {
         "id": 31,
         "name": "Nuts n' Bolts",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -21960,38 +14097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/31_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Orbiting Planets": {
         "id": 32,
         "name": "Orbiting Planets",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22017,38 +14127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/32_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Orbiting Fire": {
         "id": 33,
         "name": "Orbiting Fire",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22074,38 +14157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/33_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Bubbling": {
         "id": 34,
         "name": "Bubbling",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22131,38 +14187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/34_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Smoking": {
         "id": 35,
         "name": "Smoking",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22188,38 +14217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/35_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Steaming": {
         "id": 36,
         "name": "Steaming",
-        "type": "cosmetics",
-        "series": "Series 2",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22245,38 +14247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/36_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#26",
-                "series_end": "#57",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1313618400000,
-        "update_name": "August 18, 2011 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Flaming Lantern": {
         "id": 37,
         "name": "Flaming Lantern",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22302,22 +14277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/37_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Cloudy Moon": {
         "id": 38,
         "name": "Cloudy Moon",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22343,22 +14307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/38_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Cauldron Bubbles": {
         "id": 39,
         "name": "Cauldron Bubbles",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22384,22 +14337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/39_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Eerie Orbiting Fire": {
         "id": 40,
         "name": "Eerie Orbiting Fire",
-        "type": "cosmetics",
-        "series": "Very Scary Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22425,22 +14367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/40_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1319666400000,
-        "update_name": "Very Scary Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Knifestorm": {
         "id": 43,
         "name": "Knifestorm",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22466,22 +14397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/43_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Misty Skull": {
         "id": 44,
         "name": "Misty Skull",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22507,22 +14427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/44_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Harvest Moon": {
         "id": 45,
         "name": "Harvest Moon",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22548,22 +14457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/45_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "It's A Secret To Everybody": {
         "id": 46,
         "name": "It's A Secret To Everybody",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22589,22 +14487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/46_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Stormy 13th Hour": {
         "id": 47,
         "name": "Stormy 13th Hour",
-        "type": "cosmetics",
-        "series": "Spectral Halloween Special",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22630,22 +14517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/47_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1351202400000,
-        "update_name": "Spectral Halloween Special",
-        "last_update": 1703677340751
+        }
     },
     "Kill-a-Watt": {
         "id": 56,
         "name": "Kill-a-Watt",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22671,38 +14547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/56_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Terror-Watt": {
         "id": 57,
         "name": "Terror-Watt",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22728,38 +14577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/57_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Cloud 9": {
         "id": 58,
         "name": "Cloud 9",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22785,38 +14607,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/58_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Aces High": {
         "id": 59,
         "name": "Aces High",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22842,38 +14637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/59_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Dead Presidents": {
         "id": 60,
         "name": "Dead Presidents",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22899,38 +14667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/60_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Miami Nights": {
         "id": 61,
         "name": "Miami Nights",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -22956,38 +14697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/61_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Disco Beat Down": {
         "id": 62,
         "name": "Disco Beat Down",
-        "type": "cosmetics",
-        "series": "Series 3",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23013,38 +14727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/62_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#59",
-                "series_end": "#86",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Supply Crate",
-                "series_start": "#88",
-                "series_end": "#103",
-                "availability": "active"
-            },
-            {
-                "name": "Unlocked Cosmetic Crate",
-                "availability": "active"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1371592800000,
-        "update_name": "June 19, 2013 Patch",
-        "last_update": 1703677340751
+        }
     },
     "Phosphorous": {
         "id": 63,
         "name": "Phosphorous",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23070,22 +14757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/63_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Sulphurous": {
         "id": 64,
         "name": "Sulphurous",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23111,22 +14787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/64_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Memory Leak": {
         "id": 65,
         "name": "Memory Leak",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23152,22 +14817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/65_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Overclocked": {
         "id": 66,
         "name": "Overclocked",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23193,22 +14847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/66_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Electrostatic": {
         "id": 67,
         "name": "Electrostatic",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23234,22 +14877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/67_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Power Surge": {
         "id": 68,
         "name": "Power Surge",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23275,22 +14907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/68_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Anti-Freeze": {
         "id": 69,
         "name": "Anti-Freeze",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23316,22 +14937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/69_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Time Warp": {
         "id": 70,
         "name": "Time Warp",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23357,22 +14967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/70_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Green Black Hole": {
         "id": 71,
         "name": "Green Black Hole",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23398,22 +14997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/71_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Roboactive": {
         "id": 72,
         "name": "Roboactive",
-        "type": "cosmetics",
-        "series": "Robotic Boogaloo",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23439,22 +15027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/72_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Robo Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1368741600000,
-        "update_name": "Robotic Boogaloo",
-        "last_update": 1703677340751
+        }
     },
     "Arcana": {
         "id": 73,
         "name": "Arcana",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23480,22 +15057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/73_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Spellbound": {
         "id": 74,
         "name": "Spellbound",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23521,22 +15087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/74_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Chiroptera Venenata": {
         "id": 75,
         "name": "Chiroptera Venenata",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23562,22 +15117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/75_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Poisoned Shadows": {
         "id": 76,
         "name": "Poisoned Shadows",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23603,22 +15147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/76_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Something Burning This Way Comes": {
         "id": 77,
         "name": "Something Burning This Way Comes",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23644,22 +15177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/77_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Hellfire": {
         "id": 78,
         "name": "Hellfire",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23685,22 +15207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/78_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Darkblaze": {
         "id": 79,
         "name": "Darkblaze",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23726,22 +15237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/79_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Demonflame": {
         "id": 80,
         "name": "Demonflame",
-        "type": "cosmetics",
-        "series": "Scream Fortress V",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23767,22 +15267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/80_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1383001200000,
-        "update_name": "Scream Fortress V",
-        "last_update": 1703677340751
+        }
     },
     "Bonzo The All-Gnawing": {
         "id": 81,
         "name": "Bonzo The All-Gnawing",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23808,30 +15297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/81_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "Amaranthine": {
         "id": 82,
         "name": "Amaranthine",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23857,30 +15327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/82_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "Stare From Beyond": {
         "id": 83,
         "name": "Stare From Beyond",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23906,30 +15357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/83_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "The Ooze": {
         "id": 84,
         "name": "The Ooze",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -23955,30 +15387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/84_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "Ghastly Ghosts Jr": {
         "id": 85,
         "name": "Ghastly Ghosts Jr",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24004,30 +15417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/85_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "Haunted Phantasm Jr": {
         "id": 86,
         "name": "Haunted Phantasm Jr",
-        "type": "cosmetics",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24053,30 +15447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/86_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340751
+        }
     },
     "Frostbite": {
         "id": 87,
         "name": "Frostbite",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24102,22 +15477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/87_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340751
+        }
     },
     "Molten Mallard": {
         "id": 88,
         "name": "Molten Mallard",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24143,22 +15507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/88_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340751
+        }
     },
     "Morning Glory": {
         "id": 89,
         "name": "Morning Glory",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24184,22 +15537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/89_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340751
+        }
     },
     "Death at Dusk": {
         "id": 90,
         "name": "Death at Dusk",
-        "type": "cosmetics",
-        "series": "End of the Line Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24225,22 +15567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/90_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "End of the Line Community Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1417993200000,
-        "update_name": "End of the Line Update",
-        "last_update": 1703677340751
+        }
     },
     "Abduction": {
         "id": 91,
         "name": "Abduction",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24266,26 +15597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/91_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340751
+        }
     },
     "Atomic": {
         "id": 92,
         "name": "Atomic",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24311,26 +15627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/92_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Subatomic": {
         "id": 93,
         "name": "Subatomic",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24356,26 +15657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/93_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Electric Hat Protector": {
         "id": 94,
         "name": "Electric Hat Protector",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24401,26 +15687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/94_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Magnetic Hat Protector": {
         "id": 95,
         "name": "Magnetic Hat Protector",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24446,26 +15717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/95_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Voltaic Hat Protector": {
         "id": 96,
         "name": "Voltaic Hat Protector",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24491,26 +15747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/96_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Galactic Codex": {
         "id": 97,
         "name": "Galactic Codex",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24536,26 +15777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/97_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Ancient Codex": {
         "id": 98,
         "name": "Ancient Codex",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24581,26 +15807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/98_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Nebula": {
         "id": 99,
         "name": "Nebula",
-        "type": "cosmetics",
-        "series": "Invasion Community Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24626,26 +15837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/99_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Confidential Collection Case",
-                "availability": "active"
-            },
-            {
-                "name": "Quarantined Collection Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1444082400000,
-        "update_name": "Invasion Community Update",
-        "last_update": 1703677340752
+        }
     },
     "Death by Disco": {
         "id": 100,
         "name": "Death by Disco",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24671,22 +15867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/100_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340752
+        }
     },
     "It's a mystery to everyone": {
         "id": 101,
         "name": "It's a mystery to everyone",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24712,22 +15897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/101_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340752
+        }
     },
     "It's a puzzle to me": {
         "id": 102,
         "name": "It's a puzzle to me",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24753,22 +15927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/102_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340752
+        }
     },
     "Ether Trail": {
         "id": 103,
         "name": "Ether Trail",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24794,22 +15957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/103_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340752
+        }
     },
     "Nether Trail": {
         "id": 104,
         "name": "Nether Trail",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24835,22 +15987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/104_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340752
+        }
     },
     "Ancient Eldritch": {
         "id": 105,
         "name": "Ancient Eldritch",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24876,22 +16017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/105_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340752
+        }
     },
     "Eldritch Flame": {
         "id": 106,
         "name": "Eldritch Flame",
-        "type": "cosmetics",
-        "series": "Scream Fortress VII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -24917,75 +16047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/106_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Gargoyle Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1445986800000,
-        "update_name": "Scream Fortress VII",
-        "last_update": 1703677340753
-    },
-    "Tesla Coil": {
-        "id": 108,
-        "name": "Tesla Coil",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/108_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/108_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/108_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Neutron Star": {
         "id": 107,
         "name": "Neutron Star",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25011,34 +16077,41 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/107_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
+        }
+    },
+    "Tesla Coil": {
+        "id": 108,
+        "name": "Tesla Coil",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/108_94x94.png"
             },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/108_188x188.png"
             },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/108_380x380.png"
             }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Starstorm Insomnia": {
         "id": 109,
         "name": "Starstorm Insomnia",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25064,34 +16137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/109_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Starstorm Slumber": {
         "id": 110,
         "name": "Starstorm Slumber",
-        "type": "cosmetics",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25117,34 +16167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/110_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Brain Drain": {
         "id": 111,
         "name": "Brain Drain",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25170,30 +16197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/111_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Open Mind": {
         "id": 112,
         "name": "Open Mind",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25219,30 +16227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/112_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Head of Steam": {
         "id": 113,
         "name": "Head of Steam",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25268,30 +16257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/113_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Galactic Gateway": {
         "id": 114,
         "name": "Galactic Gateway",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25317,30 +16287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/114_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "The Eldritch Opening": {
         "id": 115,
         "name": "The Eldritch Opening",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25366,30 +16317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/115_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "The Dark Doorway": {
         "id": 116,
         "name": "The Dark Doorway",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25415,30 +16347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/116_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Ring of Fire": {
         "id": 117,
         "name": "Ring of Fire",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25464,30 +16377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/117_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Vicious Circle": {
         "id": 118,
         "name": "Vicious Circle",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25513,30 +16407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/118_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "White Lightning": {
         "id": 119,
         "name": "White Lightning",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25562,30 +16437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/119_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Omniscient Orb": {
         "id": 120,
         "name": "Omniscient Orb",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25611,30 +16467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/120_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Clairvoyance": {
         "id": 121,
         "name": "Clairvoyance",
-        "type": "cosmetics",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25660,30 +16497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/121_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Fifth Dimension": {
         "id": 122,
         "name": "Fifth Dimension",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25709,30 +16527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/122_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Vicious Vortex": {
         "id": 123,
         "name": "Vicious Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25758,30 +16557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/123_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Menacing Miasma": {
         "id": 124,
         "name": "Menacing Miasma",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25807,30 +16587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/124_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Abyssal Aura": {
         "id": 125,
         "name": "Abyssal Aura",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25856,30 +16617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/125_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Wicked Wood": {
         "id": 126,
         "name": "Wicked Wood",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25905,30 +16647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/126_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Ghastly Grove": {
         "id": 127,
         "name": "Ghastly Grove",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -25954,30 +16677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/127_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Mystical Medley": {
         "id": 128,
         "name": "Mystical Medley",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26003,30 +16707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/128_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Ethereal Essence": {
         "id": 129,
         "name": "Ethereal Essence",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26052,30 +16737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/129_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Twisted Radiance": {
         "id": 130,
         "name": "Twisted Radiance",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26101,30 +16767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/130_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Violet Vortex": {
         "id": 131,
         "name": "Violet Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26150,30 +16797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/131_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Verdant Vortex": {
         "id": 132,
         "name": "Verdant Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26199,30 +16827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/132_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Valiant Vortex": {
         "id": 133,
         "name": "Valiant Vortex",
-        "type": "cosmetics",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26248,30 +16857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/133_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Sparkling Lights": {
         "id": 134,
         "name": "Sparkling Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26297,30 +16887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/134_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Frozen Icefall": {
         "id": 135,
         "name": "Frozen Icefall",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26346,30 +16917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/135_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Fragmented Gluons": {
         "id": 136,
         "name": "Fragmented Gluons",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26395,30 +16947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/136_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Fragmented Quarks": {
         "id": 137,
         "name": "Fragmented Quarks",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26444,30 +16977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/137_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Fragmented Photons": {
         "id": 138,
         "name": "Fragmented Photons",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26493,30 +17007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/138_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Defragmenting Reality": {
         "id": 139,
         "name": "Defragmenting Reality",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26542,30 +17037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/139_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Fragmenting Reality": {
         "id": 141,
         "name": "Fragmenting Reality",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26591,30 +17067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/141_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Refragmenting Reality": {
         "id": 142,
         "name": "Refragmenting Reality",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26640,30 +17097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/142_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Snowfallen": {
         "id": 143,
         "name": "Snowfallen",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26689,30 +17127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/143_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Snowblinded": {
         "id": 144,
         "name": "Snowblinded",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26738,30 +17157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/144_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Pyroland Daydream": {
         "id": 145,
         "name": "Pyroland Daydream",
-        "type": "cosmetics",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26787,30 +17187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/145_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Verdatica": {
         "id": 147,
         "name": "Verdatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26836,22 +17217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/147_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Aromatica": {
         "id": 148,
         "name": "Aromatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26877,22 +17247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/148_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Chromatica": {
         "id": 149,
         "name": "Chromatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26918,22 +17277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/149_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Prismatica": {
         "id": 150,
         "name": "Prismatica",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -26959,22 +17307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/150_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Bee Swarm": {
         "id": 151,
         "name": "Bee Swarm",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27000,22 +17337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/151_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Frisky Fireflies": {
         "id": 152,
         "name": "Frisky Fireflies",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27041,22 +17367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/152_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Smoldering Spirits": {
         "id": 153,
         "name": "Smoldering Spirits",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27082,22 +17397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/153_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Wandering Wisps": {
         "id": 154,
         "name": "Wandering Wisps",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27123,22 +17427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/154_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Kaleidoscope": {
         "id": 155,
         "name": "Kaleidoscope",
-        "type": "cosmetics",
-        "series": "Summer 2020 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27164,22 +17457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/155_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2020 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1597960800000,
-        "update_name": "Summer 2020 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Green Giggler": {
         "id": 156,
         "name": "Green Giggler",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27205,30 +17487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/156_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Laugh-O-Lantern": {
         "id": 157,
         "name": "Laugh-O-Lantern",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27254,30 +17517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/157_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Plum Prankster": {
         "id": 158,
         "name": "Plum Prankster",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27303,30 +17547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/158_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Pyroland Nightmare": {
         "id": 159,
         "name": "Pyroland Nightmare",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27352,30 +17577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/159_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Gravelly Ghoul": {
         "id": 160,
         "name": "Gravelly Ghoul",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27401,30 +17607,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/160_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Vexed Volcanics": {
         "id": 161,
         "name": "Vexed Volcanics",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27450,30 +17637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/161_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Gourdian Angel": {
         "id": 162,
         "name": "Gourdian Angel",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27499,30 +17667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/162_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Pumpkin Party": {
         "id": 163,
         "name": "Pumpkin Party",
-        "type": "cosmetics",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27548,30 +17697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/163_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Frozen Fractals": {
         "id": 164,
         "name": "Frozen Fractals",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27597,30 +17727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/164_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Lavender Landfall": {
         "id": 165,
         "name": "Lavender Landfall",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27646,30 +17757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/165_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Special Snowfall": {
         "id": 166,
         "name": "Special Snowfall",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27695,30 +17787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/166_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Divine Desire": {
         "id": 167,
         "name": "Divine Desire",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27744,30 +17817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/167_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Distant Dream": {
         "id": 168,
         "name": "Distant Dream",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27793,30 +17847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/168_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Violent Wintertide": {
         "id": 169,
         "name": "Violent Wintertide",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27842,30 +17877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/169_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Blighted Snowstorm": {
         "id": 170,
         "name": "Blighted Snowstorm",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27891,30 +17907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/170_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Pale Nimbus": {
         "id": 171,
         "name": "Pale Nimbus",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27940,30 +17937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/171_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Genus Plasmos": {
         "id": 172,
         "name": "Genus Plasmos",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -27989,30 +17967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/172_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Serenus Lumen": {
         "id": 173,
         "name": "Serenus Lumen",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28038,30 +17997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/173_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Ventum Maris": {
         "id": 174,
         "name": "Ventum Maris",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28087,30 +18027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/174_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Mirthful Mistletoe": {
         "id": 175,
         "name": "Mirthful Mistletoe",
-        "type": "cosmetics",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28136,30 +18057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/175_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Resonation": {
         "id": 177,
         "name": "Resonation",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28185,22 +18087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/177_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Aggradation": {
         "id": 178,
         "name": "Aggradation",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28226,22 +18117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/178_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Lucidation": {
         "id": 179,
         "name": "Lucidation",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28267,22 +18147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/179_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Stunning": {
         "id": 180,
         "name": "Stunning",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28308,22 +18177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/180_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Ardentum Saturnalis": {
         "id": 181,
         "name": "Ardentum Saturnalis",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28349,22 +18207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/181_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Fragrancium Elementalis": {
         "id": 182,
         "name": "Fragrancium Elementalis",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28390,22 +18237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/182_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Reverium Irregularis": {
         "id": 183,
         "name": "Reverium Irregularis",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28431,22 +18267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/183_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Perennial Petals": {
         "id": 185,
         "name": "Perennial Petals",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28472,22 +18297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/185_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Flavorsome Sunset": {
         "id": 186,
         "name": "Flavorsome Sunset",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28513,22 +18327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/186_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Raspberry Bloom": {
         "id": 187,
         "name": "Raspberry Bloom",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28554,22 +18357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/187_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Iridescence": {
         "id": 188,
         "name": "Iridescence",
-        "type": "cosmetics",
-        "series": "Summer 2021 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28595,22 +18387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/188_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2021 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1624312800000,
-        "update_name": "Summer 2021 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Tempered Thorns": {
         "id": 189,
         "name": "Tempered Thorns",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28636,30 +18417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/189_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Devilish Diablo": {
         "id": 190,
         "name": "Devilish Diablo",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28685,30 +18447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/190_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Severed Serration": {
         "id": 191,
         "name": "Severed Serration",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28734,30 +18477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/191_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Shrieking Shades": {
         "id": 192,
         "name": "Shrieking Shades",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28783,33 +18507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/192_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Restless Wraiths": {
-        "id": [
-            193,
-            194
-        ],
+        "id": 194,
         "name": "Restless Wraiths",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28817,7 +18519,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/193_94x94.png"
+                "url": "https://backpack.tf/images/440/particles/194_94x94.png"
             },
             "medium": {
                 "size": "188x188",
@@ -28825,7 +18527,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/193_188x188.png"
+                "url": "https://backpack.tf/images/440/particles/194_188x188.png"
             },
             "large": {
                 "size": "380x380",
@@ -28833,32 +18535,13 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/193_380x380.png"
+                "url": "https://backpack.tf/images/440/particles/194_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Infernal Wraith": {
         "id": 195,
         "name": "Infernal Wraith",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28884,30 +18567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/195_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Phantom Crown": {
         "id": 196,
         "name": "Phantom Crown",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28933,30 +18597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/196_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Ancient Specter": {
         "id": 197,
         "name": "Ancient Specter",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -28982,30 +18627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/197_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Viridescent Peeper": {
         "id": 198,
         "name": "Viridescent Peeper",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29031,30 +18657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/198_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Eyes of Molten": {
         "id": 199,
         "name": "Eyes of Molten",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29080,30 +18687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/199_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Ominous Stare": {
         "id": 200,
         "name": "Ominous Stare",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29129,30 +18717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/200_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Pumpkin Moon": {
         "id": 201,
         "name": "Pumpkin Moon",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29178,30 +18747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/201_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Frantic Spooker": {
         "id": 202,
         "name": "Frantic Spooker",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29227,30 +18777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/202_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Frightened Poltergeist": {
         "id": 203,
         "name": "Frightened Poltergeist",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29276,30 +18807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/203_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Energetic Haunter": {
         "id": 204,
         "name": "Energetic Haunter",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29325,30 +18837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/204_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Smissmas Tree": {
         "id": 205,
         "name": "Smissmas Tree",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29374,30 +18867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/205_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Hospitable Festivity": {
         "id": 206,
         "name": "Hospitable Festivity",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29423,33 +18897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/206_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Condescending Embrace": {
-        "id": [
-            207,
-            208
-        ],
+        "id": 207,
         "name": "Condescending Embrace",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29475,30 +18927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/207_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Sparkling Spruce": {
         "id": 209,
         "name": "Sparkling Spruce",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29524,30 +18957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/209_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Glittering Juniper": {
         "id": 210,
         "name": "Glittering Juniper",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29573,30 +18987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/210_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Prismatic Pine": {
         "id": 211,
         "name": "Prismatic Pine",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29622,30 +19017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/211_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Spiraling Lights": {
         "id": 212,
         "name": "Spiraling Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29671,30 +19047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/212_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Twisting Lights": {
         "id": 213,
         "name": "Twisting Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29720,30 +19077,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/213_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Stardust Pathway": {
         "id": 214,
         "name": "Stardust Pathway",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29769,30 +19107,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/214_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Flurry Rush": {
         "id": 215,
         "name": "Flurry Rush",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29818,33 +19137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/215_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Spark of Smissmas": {
-        "id": [
-            216,
-            217
-        ],
+        "id": 216,
         "name": "Spark of Smissmas",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29870,30 +19167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/216_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Polar Forecast": {
         "id": 218,
         "name": "Polar Forecast",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29919,30 +19197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/218_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Shining Stag": {
         "id": 219,
         "name": "Shining Stag",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -29968,30 +19227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/219_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Holiday Horns": {
         "id": 220,
         "name": "Holiday Horns",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30017,33 +19257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/220_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Ardent Antlers": {
-        "id": [
-            221,
-            222
-        ],
+        "id": 221,
         "name": "Ardent Antlers",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30069,30 +19287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/221_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Festive Lights": {
         "id": 223,
         "name": "Festive Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30118,33 +19317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/223_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Crustacean Sensation": {
-        "id": [
-            224,
-            225
-        ],
+        "id": 224,
         "name": "Crustacean Sensation",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30170,25 +19347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/224_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Frosted Decadence": {
-        "id": [
-            226,
-            227
-        ],
+        "id": 226,
         "name": "Frosted Decadence",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30214,22 +19377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/226_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Sprinkled Delights": {
         "id": 228,
         "name": "Sprinkled Delights",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30255,22 +19407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/228_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Terrestrial Favor": {
         "id": 229,
         "name": "Terrestrial Favor",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30296,22 +19437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/229_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Tropical Thrill": {
         "id": 230,
         "name": "Tropical Thrill",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30337,22 +19467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/230_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Flourishing Passion": {
         "id": 231,
         "name": "Flourishing Passion",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30378,22 +19497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/231_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Dazzling Fireworks": {
         "id": 232,
         "name": "Dazzling Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30419,22 +19527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/232_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Blazing Fireworks": {
         "id": 233,
         "name": "Blazing Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30460,63 +19557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/233_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
-    },
-    "Shimmering Fireworks": {
-        "id": 234,
-        "name": "Shimmering Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/234_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/234_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/234_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Twinkling Fireworks": {
         "id": 235,
         "name": "Twinkling Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30542,22 +19587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/235_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Sparkling Fireworks": {
         "id": 236,
         "name": "Sparkling Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30583,22 +19617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/236_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Glowing Fireworks": {
         "id": 237,
         "name": "Glowing Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30624,66 +19647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/237_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
-    },
-    "Glimmering Fireworks": {
-        "id": 238,
-        "name": "Glimmering Fireworks",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
-        "images": {
-            "small": {
-                "size": "94x94",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/238_94x94.png"
-            },
-            "medium": {
-                "size": "188x188",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/238_188x188.png"
-            },
-            "large": {
-                "size": "380x380",
-                "source": {
-                    "text": "Backpack.tf",
-                    "url": "https://backpack.tf"
-                },
-                "url": "https://backpack.tf/images/440/particles/238_380x380.png"
-            }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Flying Lights": {
-        "id": [
-            239,
-            240
-        ],
+        "id": 239,
         "name": "Flying Lights",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30709,22 +19677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/239_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Limelight": {
         "id": 241,
         "name": "Limelight",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30750,22 +19707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/241_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Shining Star": {
         "id": 242,
         "name": "Shining Star",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30791,22 +19737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/242_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Cold Cosmos": {
         "id": 243,
         "name": "Cold Cosmos",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30832,22 +19767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/243_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Refracting Fractals": {
         "id": 244,
         "name": "Refracting Fractals",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30873,25 +19797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/244_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Startrance": {
-        "id": [
-            245,
-            246
-        ],
+        "id": 245,
         "name": "Startrance",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30917,22 +19827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/245_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Starlush": {
         "id": 247,
         "name": "Starlush",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30958,22 +19857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/247_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Starfire": {
         "id": 248,
         "name": "Starfire",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -30999,22 +19887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/248_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Stardust": {
         "id": 249,
         "name": "Stardust",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31040,22 +19917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/249_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Contagious Eruption": {
         "id": 250,
         "name": "Contagious Eruption",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31081,22 +19947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/250_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Daydream Eruption": {
         "id": 251,
         "name": "Daydream Eruption",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31122,22 +19977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/251_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Volcanic Eruption": {
         "id": 252,
         "name": "Volcanic Eruption",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31163,22 +20007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/252_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Divine Sunlight": {
         "id": 253,
         "name": "Divine Sunlight",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31204,22 +20037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/253_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Audiophile": {
         "id": 254,
         "name": "Audiophile",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31245,22 +20067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/254_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Soundwave": {
         "id": 255,
         "name": "Soundwave",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31286,22 +20097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/255_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Synesthesia": {
         "id": 256,
         "name": "Synesthesia",
-        "type": "cosmetics",
-        "series": "Summer 2022 Pack",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31327,22 +20127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/256_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2022 Cosmetic Case",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1659045600000,
-        "update_name": "Summer 2022 Pack",
-        "last_update": 1703677340753
+        }
     },
     "Haunted Kraken": {
         "id": 257,
         "name": "Haunted Kraken",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31368,30 +20157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/257_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Eerie Kraken": {
         "id": 258,
         "name": "Eerie Kraken",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31417,30 +20187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/258_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Soulful Slice": {
         "id": 259,
         "name": "Soulful Slice",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31466,30 +20217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/259_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Horsemann's Hack": {
         "id": 260,
         "name": "Horsemann's Hack",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31515,33 +20247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/260_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Haunted Forever!": {
-        "id": [
-            261,
-            262
-        ],
+        "id": 261,
         "name": "Haunted Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31567,30 +20277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/261_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Forever And Forever!": {
         "id": 263,
         "name": "Forever And Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31616,30 +20307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/263_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Cursed Forever!": {
         "id": 264,
         "name": "Cursed Forever!",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31665,30 +20337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/264_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Moth Plague": {
         "id": 265,
         "name": "Moth Plague",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31714,30 +20367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/265_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Malevolent Monoculi": {
         "id": 266,
         "name": "Malevolent Monoculi",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31763,33 +20397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/266_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Haunted Wick": {
-        "id": [
-            267,
-            268
-        ],
+        "id": 267,
         "name": "Haunted Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31815,30 +20427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/267_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Wicked Wick": {
         "id": 269,
         "name": "Wicked Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31864,30 +20457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/269_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Spectral Wick": {
         "id": 270,
         "name": "Spectral Wick",
-        "type": "cosmetics",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31913,30 +20487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/270_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340753
+        }
     },
     "Musical Maelstrom": {
         "id": 271,
         "name": "Musical Maelstrom",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -31962,26 +20517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/271_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Verdant Virtuoso": {
         "id": 272,
         "name": "Verdant Virtuoso",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32007,26 +20547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/272_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Silver Serenade": {
         "id": 273,
         "name": "Silver Serenade",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32052,29 +20577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/273_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Cosmic Constellations": {
-        "id": [
-            274,
-            275
-        ],
+        "id": 274,
         "name": "Cosmic Constellations",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32100,26 +20607,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/274_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Dazzling Constellations": {
         "id": 276,
         "name": "Dazzling Constellations",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32145,26 +20637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/276_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Tainted Frost": {
         "id": 277,
         "name": "Tainted Frost",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32190,26 +20667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/277_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Starlight Haze": {
         "id": 278,
         "name": "Starlight Haze",
-        "type": "cosmetics",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32235,29 +20697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/278_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340753
+        }
     },
     "Hard Carry": {
-        "id": [
-            279,
-            280
-        ],
+        "id": 279,
         "name": "Hard Carry",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32283,25 +20727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/279_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Jellyfish Field": {
-        "id": [
-            281,
-            282
-        ],
+        "id": 281,
         "name": "Jellyfish Field",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32327,22 +20757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/281_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Jellyfish Hunter": {
         "id": 283,
         "name": "Jellyfish Hunter",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32368,22 +20787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/283_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Jellyfish Jam": {
         "id": 284,
         "name": "Jellyfish Jam",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32409,22 +20817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/284_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Global Clusters": {
         "id": 285,
         "name": "Global Clusters",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32450,22 +20847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/285_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Celestial Starburst": {
         "id": 286,
         "name": "Celestial Starburst",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32491,22 +20877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/286_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Sylicone Succiduous": {
         "id": 287,
         "name": "Sylicone Succiduous",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32532,22 +20907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/287_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Sakura Smoke Bomb": {
         "id": 288,
         "name": "Sakura Smoke Bomb",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32573,22 +20937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/288_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Treasure Trove": {
         "id": 289,
         "name": "Treasure Trove",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32614,22 +20967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/289_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Bubble Breeze": {
         "id": 290,
         "name": "Bubble Breeze",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32655,22 +20997,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/290_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Fireflies": {
         "id": 291,
         "name": "Fireflies",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32696,22 +21027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/291_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Mountain Halo": {
         "id": 292,
         "name": "Mountain Halo",
-        "type": "cosmetics",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32737,22 +21057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/292_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340753
+        }
     },
     "Celestial Summit": {
         "id": 293,
         "name": "Celestial Summit",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32778,30 +21087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/293_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Stellar Ascent": {
         "id": 294,
         "name": "Stellar Ascent",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32827,33 +21117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/294_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Sapped": {
-        "id": [
-            295,
-            296
-        ],
+        "id": 295,
         "name": "Sapped",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32879,33 +21147,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/295_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Hellspawned Horns": {
-        "id": [
-            297,
-            298
-        ],
+        "id": 297,
         "name": "Hellspawned Horns",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32931,30 +21177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/297_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Demonic Impaler": {
         "id": 299,
         "name": "Demonic Impaler",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -32980,30 +21207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/299_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Revenant's Rack": {
         "id": 300,
         "name": "Revenant's Rack",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33029,33 +21237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/300_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Sixth Sense": {
-        "id": [
-            301,
-            302
-        ],
+        "id": 301,
         "name": "Sixth Sense",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33081,30 +21267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/301_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Amygdala": {
         "id": 303,
         "name": "Amygdala",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33130,30 +21297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/303_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "The Bone Zone": {
         "id": 304,
         "name": "The Bone Zone",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33179,30 +21327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/304_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Arachne's Web": {
         "id": 305,
         "name": "Arachne's Web",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33228,30 +21357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/305_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Acidic Climate": {
         "id": 306,
         "name": "Acidic Climate",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33277,30 +21387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/306_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Otherworldly Weather": {
         "id": 307,
         "name": "Otherworldly Weather",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33326,30 +21417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/307_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Nightmarish Storm": {
         "id": 308,
         "name": "Nightmarish Storm",
-        "type": "cosmetics",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33375,33 +21447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/308_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340753
+        }
     },
     "Icestruck": {
-        "id": [
-            309,
-            310
-        ],
+        "id": 309,
         "name": "Icestruck",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33427,26 +21477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/309_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Goldstruck": {
         "id": 311,
         "name": "Goldstruck",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33472,29 +21507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/311_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Radiant Rivalry": {
-        "id": [
-            312,
-            313
-        ],
+        "id": 312,
         "name": "Radiant Rivalry",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33520,26 +21537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/312_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Radiant Legacy": {
         "id": 314,
         "name": "Radiant Legacy",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33565,29 +21567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/314_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Frosty Flavours": {
-        "id": [
-            315,
-            316
-        ],
+        "id": 315,
         "name": "Frosty Flavours",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33613,26 +21597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/315_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Mint Frost": {
         "id": 317,
         "name": "Mint Frost",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33658,29 +21627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/317_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "North Star": {
-        "id": [
-            318,
-            319
-        ],
+        "id": 318,
         "name": "North Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33706,26 +21657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/318_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Prettiest Star": {
         "id": 320,
         "name": "Prettiest Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33751,26 +21687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/320_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Festive Falling Star": {
         "id": 321,
         "name": "Festive Falling Star",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33796,29 +21717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/321_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Lunar Lights": {
-        "id": [
-            322,
-            323
-        ],
+        "id": 322,
         "name": "Lunar Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33844,26 +21747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/322_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Fairy Lights": {
         "id": 324,
         "name": "Fairy Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33889,26 +21777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/324_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
     },
     "Natural Lights": {
         "id": 325,
         "name": "Natural Lights",
-        "type": "cosmetics",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33934,26 +21807,551 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/325_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
+        }
+    },
+    "Loyalist's Coronet": {
+        "id": 327,
+        "name": "Loyalist's Coronet",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/327_94x94.png"
             },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/327_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/327_380x380.png"
             }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340753
+        }
+    },
+    "Knight's Prideful Spirit": {
+        "id": 329,
+        "name": "Knight's Prideful Spirit",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/329_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/329_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/329_380x380.png"
+            }
+        }
+    },
+    "Baron's Cherished Chaplet": {
+        "id": 330,
+        "name": "Baron's Cherished Chaplet",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/330_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/330_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/330_380x380.png"
+            }
+        }
+    },
+    "Lure of the Deep": {
+        "id": 331,
+        "name": "Lure of the Deep",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/331_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/331_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/331_380x380.png"
+            }
+        }
+    },
+    "Violent Viridian": {
+        "id": 333,
+        "name": "Violent Viridian",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/333_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/333_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/333_380x380.png"
+            }
+        }
+    },
+    "Magenta Monstrum": {
+        "id": 334,
+        "name": "Magenta Monstrum",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/334_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/334_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/334_380x380.png"
+            }
+        }
+    },
+    "Rainbow Reverie": {
+        "id": 335,
+        "name": "Rainbow Reverie",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/335_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/335_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/335_380x380.png"
+            }
+        }
+    },
+    "Cuban Smoke": {
+        "id": 336,
+        "name": "Cuban Smoke",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/336_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/336_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/336_380x380.png"
+            }
+        }
+    },
+    "Melting Mohawk": {
+        "id": 337,
+        "name": "Melting Mohawk",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/337_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/337_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/337_380x380.png"
+            }
+        }
+    },
+    "Scorched Scalp": {
+        "id": 339,
+        "name": "Scorched Scalp",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/339_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/339_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/339_380x380.png"
+            }
+        }
+    },
+    "Ignited Crest": {
+        "id": 340,
+        "name": "Ignited Crest",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/340_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/340_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/340_380x380.png"
+            }
+        }
+    },
+    "Rare Shine": {
+        "id": 341,
+        "name": "Rare Shine",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/341_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/341_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/341_380x380.png"
+            }
+        }
+    },
+    "Distant Drift": {
+        "id": 342,
+        "name": "Distant Drift",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/342_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/342_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/342_380x380.png"
+            }
+        }
+    },
+    "Warp Drive": {
+        "id": 344,
+        "name": "Warp Drive",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/344_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/344_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/344_380x380.png"
+            }
+        }
+    },
+    "Overdrive": {
+        "id": 345,
+        "name": "Overdrive",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/345_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/345_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/345_380x380.png"
+            }
+        }
+    },
+    "Butterfly Season": {
+        "id": 346,
+        "name": "Butterfly Season",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/346_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/346_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/346_380x380.png"
+            }
+        }
+    },
+    "Psycho-delic": {
+        "id": 348,
+        "name": "Psycho-delic",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/348_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/348_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/348_380x380.png"
+            }
+        }
+    },
+    "Bewitching Bugs": {
+        "id": 349,
+        "name": "Bewitching Bugs",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/349_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/349_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/349_380x380.png"
+            }
+        }
     },
     "Hot": {
         "id": 701,
         "name": "Hot",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -33979,26 +22377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/701_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340753
+        }
     },
     "Isotope": {
         "id": 702,
         "name": "Isotope",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34024,26 +22407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/702_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340753
+        }
     },
     "Cool": {
         "id": 703,
         "name": "Cool",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34069,26 +22437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/703_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340753
+        }
     },
     "Energy Orb": {
         "id": 704,
         "name": "Energy Orb",
-        "type": "weapons",
-        "series": "Gun Mettle Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34114,29 +22467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/704_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Decorated Case",
-                "availability": "active"
-            },
-            {
-                "name": "War Paint Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1435788000000,
-        "update_name": "Gun Mettle Update",
-        "last_update": 1703677340753
+        }
     },
     "Showstopper": {
-        "id": [
-            3001,
-            3002
-        ],
+        "id": 3002,
         "name": "Showstopper",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34144,7 +22479,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3001_94x94.png"
+                "url": "https://backpack.tf/images/440/particles/3002_94x94.png"
             },
             "medium": {
                 "size": "188x188",
@@ -34152,7 +22487,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3001_188x188.png"
+                "url": "https://backpack.tf/images/440/particles/3002_188x188.png"
             },
             "large": {
                 "size": "380x380",
@@ -34160,32 +22495,13 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3001_380x380.png"
+                "url": "https://backpack.tf/images/440/particles/3002_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Holy Grail": {
         "id": 3003,
         "name": "Holy Grail",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34211,30 +22527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3003_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "'72": {
         "id": 3004,
         "name": "'72",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34260,30 +22557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3004_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Fountain of Delight": {
         "id": 3005,
         "name": "Fountain of Delight",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34309,30 +22587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3005_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Screaming Tiger": {
         "id": 3006,
         "name": "Screaming Tiger",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34358,30 +22617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3006_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Skill Gotten Gains": {
         "id": 3007,
         "name": "Skill Gotten Gains",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34407,30 +22647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3007_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Midnight Whirlwind": {
         "id": 3008,
         "name": "Midnight Whirlwind",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34456,30 +22677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3008_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Silver Cyclone": {
         "id": 3009,
         "name": "Silver Cyclone",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34505,30 +22707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3009_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Mega Strike": {
         "id": 3010,
         "name": "Mega Strike",
-        "type": "taunts",
-        "series": "Love & War Update",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34554,30 +22737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3010_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "active"
-            },
-            {
-                "name": "Mann Co. Director's Cut Reel",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1403042400000,
-        "update_name": "Love & War Update",
-        "last_update": 1703677340753
+        }
     },
     "Haunted Phantasm": {
         "id": 3011,
         "name": "Haunted Phantasm",
-        "type": "taunts",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34603,30 +22767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3011_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340753
+        }
     },
     "Ghastly Ghosts": {
         "id": 3012,
         "name": "Ghastly Ghosts",
-        "type": "taunts",
-        "series": "Scream Fortress VI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34652,30 +22797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3012_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Mann Co. Audition Reel",
-                "availability": "retired"
-            },
-            {
-                "name": "Unlocked Creepy Crate",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1414537200000,
-        "update_name": "Scream Fortress VI",
-        "last_update": 1703677340753
+        }
     },
     "Hellish Inferno": {
         "id": 3013,
         "name": "Hellish Inferno",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34701,34 +22827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3013_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Spectral Swirl": {
         "id": 3014,
         "name": "Spectral Swirl",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34754,34 +22857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3014_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Infernal Flames": {
         "id": 3015,
         "name": "Infernal Flames",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34807,34 +22887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3015_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Infernal Smoke": {
         "id": 3016,
         "name": "Infernal Smoke",
-        "type": "taunts",
-        "series": "Scream Fortress VIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34860,34 +22917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3016_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any event crate",
-                "availability": "retired"
-            },
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Creepy Crawly Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1477000800000,
-        "update_name": "Scream Fortress VIII",
-        "last_update": 1703677340753
+        }
     },
     "Acidic Bubbles of Envy": {
         "id": 3017,
         "name": "Acidic Bubbles of Envy",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34913,30 +22947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3017_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Flammable Bubbles of Attraction": {
         "id": 3018,
         "name": "Flammable Bubbles of Attraction",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -34962,30 +22977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3018_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Poisonous Bubbles of Regret": {
         "id": 3019,
         "name": "Poisonous Bubbles of Regret",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35011,30 +23007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3019_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Roaring Rockets": {
         "id": 3020,
         "name": "Roaring Rockets",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35060,30 +23037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3020_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Spooky Night": {
         "id": 3021,
         "name": "Spooky Night",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35109,30 +23067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3021_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Ominous Night": {
         "id": 3022,
         "name": "Ominous Night",
-        "type": "taunts",
-        "series": "Scream Fortress X",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35158,30 +23097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3022_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Violet Vermin Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1539900000000,
-        "update_name": "Scream Fortress X",
-        "last_update": 1703677340753
+        }
     },
     "Bewitched": {
         "id": 3023,
         "name": "Bewitched",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35207,30 +23127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3023_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Accursed": {
         "id": 3024,
         "name": "Accursed",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35256,30 +23157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3024_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Enchanted": {
         "id": 3025,
         "name": "Enchanted",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35305,30 +23187,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3025_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Static Mist": {
         "id": 3026,
         "name": "Static Mist",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35354,30 +23217,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3026_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Eerie Lightning": {
         "id": 3027,
         "name": "Eerie Lightning",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35403,30 +23247,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3027_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Terrifying Thunder": {
         "id": 3028,
         "name": "Terrifying Thunder",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35452,30 +23277,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3028_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Jarate Shock": {
         "id": 3029,
         "name": "Jarate Shock",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35501,30 +23307,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3029_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Nether Void": {
         "id": 3030,
         "name": "Nether Void",
-        "type": "taunts",
-        "series": "Scream Fortress XI",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35550,30 +23337,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3030_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Spooky Spoils Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1570658400000,
-        "update_name": "Scream Fortress XI",
-        "last_update": 1703677340753
+        }
     },
     "Good-Hearted Goodies": {
         "id": 3031,
         "name": "Good-Hearted Goodies",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35599,30 +23367,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3031_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Wintery Wisp": {
         "id": 3032,
         "name": "Wintery Wisp",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35648,30 +23397,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3032_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Arctic Aurora": {
         "id": 3033,
         "name": "Arctic Aurora",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35697,30 +23427,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3033_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Winter Spirit": {
         "id": 3034,
         "name": "Winter Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35746,30 +23457,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3034_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Festive Spirit": {
         "id": 3035,
         "name": "Festive Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35795,30 +23487,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3035_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Magical Spirit": {
         "id": 3036,
         "name": "Magical Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2019",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35844,30 +23517,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3036_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2019 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1576450800000,
-        "update_name": "Smissmas 2019",
-        "last_update": 1703677340753
+        }
     },
     "Spectral Escort": {
         "id": 3037,
         "name": "Spectral Escort",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35893,30 +23547,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3037_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Astral Presence": {
         "id": 3038,
         "name": "Astral Presence",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35942,33 +23577,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3038_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Arcane Assistance": {
-        "id": [
-            3039,
-            3040
-        ],
+        "id": 3040,
         "name": "Arcane Assistance",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -35976,7 +23589,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3039_94x94.png"
+                "url": "https://backpack.tf/images/440/particles/3040_94x94.png"
             },
             "medium": {
                 "size": "188x188",
@@ -35984,7 +23597,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3039_188x188.png"
+                "url": "https://backpack.tf/images/440/particles/3040_188x188.png"
             },
             "large": {
                 "size": "380x380",
@@ -35992,32 +23605,13 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3039_380x380.png"
+                "url": "https://backpack.tf/images/440/particles/3040_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Emerald Allurement": {
         "id": 3041,
         "name": "Emerald Allurement",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36043,30 +23637,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3041_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Pyrophoric Personality": {
         "id": 3042,
         "name": "Pyrophoric Personality",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36092,30 +23667,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3042_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Spellbound Aspect": {
         "id": 3043,
         "name": "Spellbound Aspect",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36141,30 +23697,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3043_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Static Shock": {
         "id": 3044,
         "name": "Static Shock",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36190,30 +23727,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3044_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Veno Shock": {
         "id": 3045,
         "name": "Veno Shock",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36239,30 +23757,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3045_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Toxic Terrors": {
         "id": 3046,
         "name": "Toxic Terrors",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36288,30 +23787,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3046_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Arachnid Assault": {
         "id": 3047,
         "name": "Arachnid Assault",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36337,30 +23817,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3047_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Creepy Crawlies": {
         "id": 3048,
         "name": "Creepy Crawlies",
-        "type": "taunts",
-        "series": "Scream Fortress XII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36386,30 +23847,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3048_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Wicked Windfall Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1601503200000,
-        "update_name": "Scream Fortress XII",
-        "last_update": 1703677340753
+        }
     },
     "Delightful Star": {
         "id": 3049,
         "name": "Delightful Star",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36435,30 +23877,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3049_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Frosted Star": {
         "id": 3050,
         "name": "Frosted Star",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36484,30 +23907,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3050_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Apotheosis": {
         "id": 3051,
         "name": "Apotheosis",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36533,30 +23937,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3051_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Ascension": {
         "id": 3052,
         "name": "Ascension",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36582,33 +23967,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3052_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Reindoonicorn Rancher": {
-        "id": [
-            3053,
-            3054
-        ],
+        "id": 3054,
         "name": "Reindoonicorn Rancher",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36616,7 +23979,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3053_94x94.png"
+                "url": "https://backpack.tf/images/440/particles/3054_94x94.png"
             },
             "medium": {
                 "size": "188x188",
@@ -36624,7 +23987,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3053_188x188.png"
+                "url": "https://backpack.tf/images/440/particles/3054_188x188.png"
             },
             "large": {
                 "size": "380x380",
@@ -36632,32 +23995,13 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3053_380x380.png"
+                "url": "https://backpack.tf/images/440/particles/3054_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Twinkling Lights": {
         "id": 3055,
         "name": "Twinkling Lights",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36683,30 +24027,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3055_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Shimmering Lights": {
         "id": 3056,
         "name": "Shimmering Lights",
-        "type": "taunts",
-        "series": "Smissmas 2020",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36732,30 +24057,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3056_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2020 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1606950000000,
-        "update_name": "Smissmas 2020",
-        "last_update": 1703677340753
+        }
     },
     "Spectral Shackles": {
         "id": 3059,
         "name": "Spectral Shackles",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36781,30 +24087,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3059_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Cursed Confinement": {
         "id": 3060,
         "name": "Cursed Confinement",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36830,33 +24117,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3060_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Cavalier de Carte": {
-        "id": [
-            3061,
-            3062
-        ],
+        "id": 3062,
         "name": "Cavalier de Carte",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36864,7 +24129,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3061_94x94.png"
+                "url": "https://backpack.tf/images/440/particles/3062_94x94.png"
             },
             "medium": {
                 "size": "188x188",
@@ -36872,7 +24137,7 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3061_188x188.png"
+                "url": "https://backpack.tf/images/440/particles/3062_188x188.png"
             },
             "large": {
                 "size": "380x380",
@@ -36880,32 +24145,13 @@ module.exports = {
                     "text": "Backpack.tf",
                     "url": "https://backpack.tf"
                 },
-                "url": "https://backpack.tf/images/440/particles/3061_380x380.png"
+                "url": "https://backpack.tf/images/440/particles/3062_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Hollow Flourish": {
         "id": 3063,
         "name": "Hollow Flourish",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36931,30 +24177,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3063_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Magic Shuffle": {
         "id": 3064,
         "name": "Magic Shuffle",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -36980,30 +24207,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3064_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Vigorous Pulse": {
         "id": 3065,
         "name": "Vigorous Pulse",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37029,30 +24237,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3065_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Thundering Spirit": {
         "id": 3066,
         "name": "Thundering Spirit",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37078,30 +24267,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3066_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Galvanic Defiance": {
         "id": 3067,
         "name": "Galvanic Defiance",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37127,30 +24297,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3067_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Wispy Halos": {
         "id": 3068,
         "name": "Wispy Halos",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37176,30 +24327,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3068_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Nether Wisps": {
         "id": 3069,
         "name": "Nether Wisps",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37225,30 +24357,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3069_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Aurora Borealis": {
         "id": 3070,
         "name": "Aurora Borealis",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37274,30 +24387,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3070_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Aurora Australis": {
         "id": 3071,
         "name": "Aurora Australis",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37323,30 +24417,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3071_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Aurora Polaris": {
         "id": 3072,
         "name": "Aurora Polaris",
-        "type": "taunts",
-        "series": "Scream Fortress XIII",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37372,30 +24447,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3072_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Crimson Cache Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1633384800000,
-        "update_name": "Scream Fortress XIII",
-        "last_update": 1703677340753
+        }
     },
     "Amethyst Winds": {
         "id": 3073,
         "name": "Amethyst Winds",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37421,30 +24477,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3073_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Golden Gusts": {
         "id": 3074,
         "name": "Golden Gusts",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37470,33 +24507,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3074_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Smissmas Swirls": {
-        "id": [
-            3075,
-            3076
-        ],
+        "id": 3075,
         "name": "Smissmas Swirls",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37522,30 +24537,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3075_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Minty Cypress": {
         "id": 3077,
         "name": "Minty Cypress",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37571,30 +24567,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3077_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Pristine Pine": {
         "id": 3078,
         "name": "Pristine Pine",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37620,33 +24597,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3078_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Sparkly Spruce": {
-        "id": [
-            3079,
-            3080
-        ],
+        "id": 3079,
         "name": "Sparkly Spruce",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37672,33 +24627,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3079_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Festive Fever": {
-        "id": [
-            3081,
-            3082
-        ],
+        "id": 3081,
         "name": "Festive Fever",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37724,30 +24657,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3081_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Golden Glimmer": {
         "id": 3083,
         "name": "Golden Glimmer",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37773,30 +24687,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3083_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Frosty Silver": {
         "id": 3084,
         "name": "Frosty Silver",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37822,33 +24717,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3084_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Glamorous Dazzle": {
-        "id": [
-            3085,
-            3086
-        ],
+        "id": 3085,
         "name": "Glamorous Dazzle",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37874,30 +24747,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3085_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Sublime Snowstorm": {
         "id": 3087,
         "name": "Sublime Snowstorm",
-        "type": "taunts",
-        "series": "Smissmas 2021",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37923,33 +24777,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3087_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Winter 2021 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1638399600000,
-        "update_name": "Smissmas 2021",
-        "last_update": 1703677340753
+        }
     },
     "Marigold Ritual": {
-        "id": [
-            3088,
-            3089
-        ],
+        "id": 3088,
         "name": "Marigold Ritual",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -37975,30 +24807,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3088_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Pungent Poison": {
         "id": 3090,
         "name": "Pungent Poison",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38024,30 +24837,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3090_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Blazed Brew": {
         "id": 3091,
         "name": "Blazed Brew",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38073,30 +24867,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3091_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Mysterious Mixture": {
         "id": 3092,
         "name": "Mysterious Mixture",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38122,30 +24897,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3092_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Linguistic Deviation": {
         "id": 3093,
         "name": "Linguistic Deviation",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38171,30 +24927,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3093_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Aurelian Seal": {
         "id": 3094,
         "name": "Aurelian Seal",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38220,33 +24957,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3094_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Runic Imprisonment": {
-        "id": [
-            3095,
-            3096
-        ],
+        "id": 3095,
         "name": "Runic Imprisonment",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38272,30 +24987,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3095_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Prismatic Haze": {
         "id": 3097,
         "name": "Prismatic Haze",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38321,33 +25017,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3097_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Rising Ritual": {
-        "id": [
-            3098,
-            3099
-        ],
+        "id": 3098,
         "name": "Rising Ritual",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38373,33 +25047,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3098_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Bloody Grip": {
-        "id": [
-            3100,
-            3101
-        ],
+        "id": 3100,
         "name": "Bloody Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38425,30 +25077,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3100_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Toxic Grip": {
         "id": 3102,
         "name": "Toxic Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38474,30 +25107,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3102_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Infernal Grip": {
         "id": 3103,
         "name": "Infernal Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38523,30 +25137,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3103_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Death Grip": {
         "id": 3104,
         "name": "Death Grip",
-        "type": "taunts",
-        "series": "Scream Fortress XIV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38572,30 +25167,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3104_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Ghoulish Gains Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1664920800000,
-        "update_name": "Scream Fortress XIV",
-        "last_update": 1703677340754
+        }
     },
     "Charged Arcane": {
         "id": 3105,
         "name": "Charged Arcane",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38621,26 +25197,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3105_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Thunderous Rage": {
         "id": 3106,
         "name": "Thunderous Rage",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38666,26 +25227,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3106_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Convulsive Fiery": {
         "id": 3107,
         "name": "Convulsive Fiery",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38711,29 +25257,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3107_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Festivized Formation": {
-        "id": [
-            3108,
-            3109
-        ],
+        "id": 3108,
         "name": "Festivized Formation",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38759,26 +25287,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3108_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Twirling Spirits": {
         "id": 3110,
         "name": "Twirling Spirits",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38804,26 +25317,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3110_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Squash n' Twist": {
         "id": 3111,
         "name": "Squash n' Twist",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38849,26 +25347,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3111_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Midnight Sparklers": {
         "id": 3112,
         "name": "Midnight Sparklers",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38894,26 +25377,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3112_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Boundless Blizzard": {
         "id": 3113,
         "name": "Boundless Blizzard",
-        "type": "taunts",
-        "series": "Smissmas 2022",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38939,26 +25407,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3113_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            }
-        ],
-        "date_added": 1670194800000,
-        "update_name": "Smissmas 2022",
-        "last_update": 1703677340754
+        }
     },
     "Solar Scorched": {
         "id": 3114,
         "name": "Solar Scorched",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -38984,25 +25437,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3114_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Deepsea Rave": {
-        "id": [
-            3115,
-            3116
-        ],
+        "id": 3115,
         "name": "Deepsea Rave",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39028,22 +25467,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3115_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Blooming Beacon": {
         "id": 3117,
         "name": "Blooming Beacon",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39069,22 +25497,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3117_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Beaming Beacon": {
         "id": 3118,
         "name": "Beaming Beacon",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39110,22 +25527,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3118_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Blazing Beacon": {
         "id": 3119,
         "name": "Blazing Beacon",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39151,22 +25557,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3119_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Floppin' Frenzy": {
         "id": 3120,
         "name": "Floppin' Frenzy",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39192,25 +25587,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3120_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Pastel Trance": {
-        "id": [
-            3121,
-            3122
-        ],
+        "id": 3121,
         "name": "Pastel Trance",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39236,22 +25617,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3121_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Wildflower Meadows": {
         "id": 3123,
         "name": "Wildflower Meadows",
-        "type": "taunts",
-        "series": "Summer 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39277,22 +25647,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3123_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Summer 2023 Cosmetic Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1689199200000,
-        "update_name": "Summer 2023",
-        "last_update": 1703677340754
+        }
     },
     "Deep-sea Devourer": {
         "id": 3124,
         "name": "Deep-sea Devourer",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39318,30 +25677,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3124_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Eldritch Horror": {
         "id": 3125,
         "name": "Eldritch Horror",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39367,30 +25707,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3125_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Autumn Leaves": {
         "id": 3126,
         "name": "Autumn Leaves",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39416,30 +25737,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3126_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Dead Man's Party": {
         "id": 3127,
         "name": "Dead Man's Party",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39465,30 +25767,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3127_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Potion Explosion": {
         "id": 3128,
         "name": "Potion Explosion",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39514,30 +25797,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3128_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Haunted Cremation": {
         "id": 3129,
         "name": "Haunted Cremation",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39563,30 +25827,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3129_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Cremation": {
         "id": 3130,
         "name": "Cremation",
-        "type": "taunts",
-        "series": "Scream Fortress XV",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39612,30 +25857,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3130_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "retired"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "retired"
-            },
-            {
-                "name": "Bone-Chilling Bonanza Case",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1696802400000,
-        "update_name": "Scream Fortress XV",
-        "last_update": 1703677340754
+        }
     },
     "Snowfall": {
         "id": 3131,
         "name": "Snowfall",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39661,29 +25887,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3131_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Galactic Connection": {
-        "id": [
-            3132,
-            3133
-        ],
+        "id": 3132,
         "name": "Galactic Connection",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39709,26 +25917,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3132_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Dark Twilight": {
         "id": 3134,
         "name": "Dark Twilight",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39754,26 +25947,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3134_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Eldritch Rift": {
         "id": 3135,
         "name": "Eldritch Rift",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39799,26 +25977,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3135_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Selfless Sensation": {
         "id": 3136,
         "name": "Selfless Sensation",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39844,26 +26007,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3136_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Distant Desire": {
         "id": 3137,
         "name": "Distant Desire",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39889,26 +26037,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3137_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Glamorous Glance": {
         "id": 3138,
         "name": "Glamorous Glance",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39934,29 +26067,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3138_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Permafrost Essence": {
-        "id": [
-            3139,
-            3140
-        ],
+        "id": 3139,
         "name": "Permafrost Essence",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -39982,26 +26097,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3139_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Arctic Delight": {
         "id": 3141,
         "name": "Arctic Delight",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -40027,26 +26127,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3141_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Winning Spirit": {
         "id": 3142,
         "name": "Winning Spirit",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -40072,29 +26157,11 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3142_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
-            },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
-            }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
     },
     "Petal Prance": {
-        "id": [
-            3143,
-            3144
-        ],
+        "id": 3143,
         "name": "Petal Prance",
-        "type": "taunts",
-        "series": "Smissmas 2023",
         "images": {
             "small": {
                 "size": "94x94",
@@ -40120,19 +26187,606 @@ module.exports = {
                 },
                 "url": "https://backpack.tf/images/440/particles/3143_380x380.png"
             }
-        },
-        "crates": [
-            {
-                "name": "Any cosmetic case",
-                "availability": "active"
+        }
+    },
+    "Dragonflies' Embrace": {
+        "id": 3145,
+        "name": "Dragonflies' Embrace",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3145_94x94.png"
             },
-            {
-                "name": "Unusualifier",
-                "availability": "active"
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3145_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3145_380x380.png"
             }
-        ],
-        "date_added": 1701903600000,
-        "update_name": "Smissmas 2023",
-        "last_update": 1703677340754
+        }
+    },
+    "Dragonflies' Nature": {
+        "id": 3147,
+        "name": "Dragonflies' Nature",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3147_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3147_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3147_380x380.png"
+            }
+        }
+    },
+    "Dragonflies' Lucent": {
+        "id": 3148,
+        "name": "Dragonflies' Lucent",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3148_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3148_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3148_380x380.png"
+            }
+        }
+    },
+    "Electrocution": {
+        "id": 3149,
+        "name": "Electrocution",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3149_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3149_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3149_380x380.png"
+            }
+        }
+    },
+    "Distress Signal": {
+        "id": 3151,
+        "name": "Distress Signal",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3151_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3151_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3151_380x380.png"
+            }
+        }
+    },
+    "Carioca's Call": {
+        "id": 3153,
+        "name": "Carioca's Call",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3153_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3153_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3153_380x380.png"
+            }
+        }
+    },
+    "Fiesta Royale": {
+        "id": 3154,
+        "name": "Fiesta Royale",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3154_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3154_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3154_380x380.png"
+            }
+        }
+    },
+    "Grand Jubilee": {
+        "id": 3156,
+        "name": "Grand Jubilee",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3156_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3156_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3156_380x380.png"
+            }
+        }
+    },
+    "Elemental": {
+        "id": 3157,
+        "name": "Elemental",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3157_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3157_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3157_380x380.png"
+            }
+        }
+    },
+    "Godlike": {
+        "id": 3159,
+        "name": "Godlike",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3159_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3159_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3159_380x380.png"
+            }
+        }
+    },
+    "Teamwork Valorance": {
+        "id": 3160,
+        "name": "Teamwork Valorance",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3160_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3160_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3160_380x380.png"
+            }
+        }
+    },
+    "Legacy Logo": {
+        "id": 3162,
+        "name": "Legacy Logo",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3162_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3162_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3162_380x380.png"
+            }
+        }
+    },
+    "Desert Wind": {
+        "id": 3163,
+        "name": "Desert Wind",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3163_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3163_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3163_380x380.png"
+            }
+        }
+    },
+    "Monsoon Season": {
+        "id": 3164,
+        "name": "Monsoon Season",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3164_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3164_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3164_380x380.png"
+            }
+        }
+    },
+    "Bountiful Riches": {
+        "id": 3165,
+        "name": "Bountiful Riches",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3165_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3165_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3165_380x380.png"
+            }
+        }
+    },
+    "Luxurious Lover": {
+        "id": 3167,
+        "name": "Luxurious Lover",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3167_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3167_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3167_380x380.png"
+            }
+        }
+    },
+    "Amatory": {
+        "id": 3168,
+        "name": "Amatory",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3168_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3168_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3168_380x380.png"
+            }
+        }
+    },
+    "Electrum": {
+        "id": 3170,
+        "name": "Electrum",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3170_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3170_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3170_380x380.png"
+            }
+        }
+    },
+    "Sakura Blessings": {
+        "id": 3171,
+        "name": "Sakura Blessings",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3171_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3171_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3171_380x380.png"
+            }
+        }
+    },
+    "Violent Violets": {
+        "id": 3173,
+        "name": "Violent Violets",
+        "images": {
+            "small": {
+                "size": "94x94",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3173_94x94.png"
+            },
+            "medium": {
+                "size": "188x188",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3173_188x188.png"
+            },
+            "large": {
+                "size": "380x380",
+                "source": {
+                    "text": "Backpack.tf",
+                    "url": "https://backpack.tf"
+                },
+                "url": "https://backpack.tf/images/440/particles/3173_380x380.png"
+            }
+        }
     }
 }
